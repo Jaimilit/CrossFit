@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&family=Open+Sans:wght@300&display=swap');
 
-h1 {
+body {
     font-family: Domine, sans-serif;
-    color: red;
+    color: rgb(61, 70, 84);
+    font-weight: 300;
 }
+
+#squat-image {
+    height: 600px;
+    width: 100%;
+    background: url('../assets/images/girl_overhead_squat.jpeg') no-repeat center center;
