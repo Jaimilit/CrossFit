@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@500&family=Open+Sans:wght@300&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 body {
     font-family: Domine, sans-serif;
     color: rgb(61, 70, 84);
@@ -9,4 +14,6 @@ body {
 #squat-image {
     height: 600px;
     width: 100%;
-    background: url('../assets/images/girl_overhead_squat.jpeg') no-repeat center center;
+    background: url('../assets/images/guy_strict_press.jpeg') no-repeat center center;
+    
+}
