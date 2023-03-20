@@ -32,8 +32,13 @@ body {
     border: 3px;
 }
 
-#murph{
+murph {
     color: #fafafa;
-    background-image: 
-   
+    background-image: url("../assets/images/mat_fraser.jpeg") no-repeat center center;
+}
+
+.strict-press {
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
 }
