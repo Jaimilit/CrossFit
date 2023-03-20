@@ -27,3 +27,13 @@ body {
 #menu {
     float: right;
 }
+
+#table {
+    border: 3px;
+}
+
+#murph{
+    color: #fafafa;
+    background-image: url(../assets/images/guy_strict_press.jpeg);
+   
+}
