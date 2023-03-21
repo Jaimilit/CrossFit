@@ -28,8 +28,7 @@ body {
     float: right;
 }
 
-murph {
-    color: #fafafa;
+#murph {
     background-image: url("../assets/images/mat_fraser.jpeg") no-repeat center center;
 }
 
