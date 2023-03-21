@@ -28,10 +28,6 @@ body {
     float: right;
 }
 
-#table {
-    border: 3px;
-}
-
 murph {
     color: #fafafa;
     background-image: url("../assets/images/mat_fraser.jpeg") no-repeat center center;
@@ -42,3 +38,22 @@ murph {
     width: 100%;
     overflow: hidden;
 }
+
+  table {
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+  }
+
+  #table {
+    background-image: url('../assets/images/girl_weights.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+
+ }
