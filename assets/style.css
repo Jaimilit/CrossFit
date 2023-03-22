@@ -40,19 +40,34 @@ body {
 
   table {
     border-collapse: collapse;
-    border: 1px solid black;
+    border: 1px solid white;
+    color: white;
   }
   th, td {
-    border: 1px solid black;
+    border: 1px solid white;
     padding: 10px;
+    color: white;
   }
 
   #table {
     background-image: url('../assets/images/girl_weights.jpeg');
     background-repeat: no-repeat;
+    background-size: cover;
     background-size: 100%;
     background-position: center;
     width: 100%;
     overflow: hidden;
 
  }
+ 
+ #wods {
+  background-image: url('assets/images/barbell.jpeg') alt="guy strict press" id="strict-press";
+ }
+  
+
+#times h2 {
+  color: #fafafa;
+}
+
+
+ 
