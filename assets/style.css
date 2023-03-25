@@ -29,8 +29,15 @@ body {
 }
 
 #murph {
-    background-image: url("../assets/images/mat_fraser.jpeg") no-repeat center center;
-}
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+ }
+
+
+
 
 .strict-press {
     height: 100px;
@@ -40,17 +47,17 @@ body {
 
   table {
     border-collapse: collapse;
-    border: 1px solid white;
-    color: white;
+    border: 1px solid black;
+    color: black;
   }
   th, td {
-    border: 1px solid white;
+    border: 1px solid black;
     padding: 10px;
-    color: white;
+    color: black;
   }
 
   #table {
-    background-image: url('../assets/images/girl_weights.jpeg');
+    background-image: url ()
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100%;
@@ -61,13 +68,16 @@ body {
  }
  
  #wods {
-  background-image: url('assets/images/barbell.jpeg') alt="guy strict press" id="strict-press";
- }
+  height: 800px;
+  width: 100%;
+  background: url('/assets/images/katrin_davidsdottir.jpeg') no-repeat center center;
+
+animation-duration: 5s;
+animation-fill-mode: forwards;
+}
+ 
   
 
-#times h2 {
-  color: #fafafa;
-}
 
 
  
