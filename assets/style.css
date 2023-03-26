@@ -28,21 +28,11 @@ body {
     float: right;
 }
 
-#murph {
-    width: 60%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
- }
-
  #famous_wods {
   text-align: center;
   margin: 20px 0;
   font-size: 200%;
 }
-
-
 
 
 .strict-press {
@@ -51,37 +41,37 @@ body {
     overflow: hidden;
 }
 
-  table {
-    border-collapse: collapse;
-    border: 1px solid black;
-    color: black;
+  #table {
   }
+
+
   th, td {
     border: 1px solid black;
     padding: 10px;
     color: black;
   }
+ 
 
-  #table {
+  #wods {
+    background-image: url(../assets/images/t2b.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-size: 100%;
-    background-position: left;
+    background-position: center;
     width: 100%;
     overflow: hidden;
-
  }
- 
- #katrin {
-  background: url('../assets/images/katrin_davidsdottir.jpeg') no-repeat center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  width: 100%;
-  overflow: hidden;
- }
-  
 
+#wods div {
+    color: #fafafa;
+    background-color: rgb(0, 0, 0, 0.6);
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding-top: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+ }
 
 
  
