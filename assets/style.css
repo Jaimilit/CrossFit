@@ -28,22 +28,11 @@ body {
     float: right;
 }
 
- #famous_wods {
-  text-align: center;
-  margin: 20px 0;
-  font-size: 200%;
-}
-
-
 .strict-press {
     height: 100px;
     width: 100%;
     overflow: hidden;
 }
-
-  #table {
-  }
-
 
   th, td {
     border: 1px solid black;
@@ -53,7 +42,7 @@ body {
  
 
   #wods {
-    background-image: url(../assets/images/t2b.jpeg);
+    background-image: url(../assets/images/kettlebell_panorama.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -71,7 +60,19 @@ body {
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
  }
 
+ #famous_wods {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 200%;
+  }
 
- 
+  div p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
