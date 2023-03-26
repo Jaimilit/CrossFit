@@ -18,7 +18,7 @@ body {
 }
 
 #squat-image {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background: url('../assets/images/guy_strict_press.jpeg') no-repeat center center;
     
@@ -35,6 +35,12 @@ body {
     clear: both;
     margin-bottom: 50px;
  }
+
+ #famous_wods {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 200%;
+}
 
 
 
@@ -57,25 +63,23 @@ body {
   }
 
   #table {
-    background-image: url ()
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100%;
-    background-position: center;
+    background-position: left;
     width: 100%;
     overflow: hidden;
 
  }
  
- #wods {
-  height: 800px;
+ #katrin {
+  background: url('../assets/images/katrin_davidsdottir.jpeg') no-repeat center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   width: 100%;
-  background: url('/assets/images/katrin_davidsdottir.jpeg') no-repeat center center;
-
-animation-duration: 5s;
-animation-fill-mode: forwards;
-}
- 
+  overflow: hidden;
+ }
   
 
 
