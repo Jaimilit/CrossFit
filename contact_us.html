@@ -30,11 +30,35 @@
         </ul>
     </nav>
 </header>
-<img src="assets/images/winners.jpeg" alt="mat fraser backrack squat" center>
-<section> 
-    <div>
-<h3>Contact Us?</h3>
+<section class="form_section"> 
+<h3>Contact Us</h3>
+<hr> 
+    <form action="" method="post" id="">
+           <legend>Contact Information</legend>
+           <label for="fname">First Name:</label>
+             <input type="text" id="fname"  name="fname" required>
+             <br>
+             <label for="lname">Last Name:</label>
+            <input type="text" id="lname" name="lname" required>
+            <br>
+            <label for="email">Email Address:</label>
+            <input id="email" type="email" name="email" required>
+                 <input type="submit" value="Send Request">
+
+    <legend>Why are you interested in CrossFit?</legend>
+                 <input id="fit" type="radio" name="reasons" value="fit">
+                 <label for="fit">To be fit & healthy</label>
+                 <br>
+                 <input id="friends" type="radio" name="reasons" value="friends">
+                 <label for="friends">To be part of the CrossFit community</label>
+                 <br>
+                 <input id="try" type="radio" name="reasons" value="try" checked> 
+                 <label for="try">To try something new</label>    
+    </form>
+</section>
+
    
+
 </body>
 <footer>
     <ul class="social-networks">
@@ -56,6 +80,5 @@
             aria-label="Visit our Instagram page (Opens in a new tab)"><i class="fab fa-instagram"></i></a>
         </li>
     </ul>
-    
 </footer>
 </html>
