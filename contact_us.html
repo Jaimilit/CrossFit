@@ -31,10 +31,9 @@
     </nav>
 </header>
 <section class="form_section"> 
-<h3>Contact Us</h3>
 <hr> 
-    <form action="" method="post" id="">
-           <legend>Contact Information</legend>
+    <form action="" method="post" class="conact_form">
+           <h3>Contact Us!</h3>
            <label for="fname">First Name:</label>
              <input type="text" id="fname"  name="fname" required>
              <br>
@@ -42,8 +41,7 @@
             <input type="text" id="lname" name="lname" required>
             <br>
             <label for="email">Email Address:</label>
-            <input id="email" type="email" name="email" required>
-                 <input type="submit" value="Send Request">
+            <input type="email" id="email" name="email" required>
 
     <legend>Why are you interested in CrossFit?</legend>
                  <input id="fit" type="radio" name="reasons" value="fit">
@@ -53,7 +51,10 @@
                  <label for="friends">To be part of the CrossFit community</label>
                  <br>
                  <input id="try" type="radio" name="reasons" value="try" checked> 
-                 <label for="try">To try something new</label>    
+                 <label for="try">To try something new</label>  
+                 <br>  
+
+                 <input type="submit" value="send" id="send">
     </form>
 </section>
 

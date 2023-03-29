@@ -97,6 +97,16 @@ footer {
   color: #3a3a3a;
 }
 
-#form {
-  color: black;
+.form_section  {
+    margin-top: 100px;
+    color: whitesmoke;
+    background-color: black;
+    max-width: 400px;
+    position: absolute;
+    padding: 20px;
+}
+
+.img_form {
+  width: 50%;
+  height: 50%;
 }
