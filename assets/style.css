@@ -5,16 +5,19 @@
     padding: 0;
     border: none;
 }
+
 body {
     font-family: Domine, sans-serif;
     color: rgb(61, 70, 84);
     font-weight: 300;
+    background-color: #d4d4d4;
 }
 
 #logo {
    text-align: center;
    font-size: 300%;
    letter-spacing: 6px;
+   background-color: #fafafa;
 }
 
 #squat-image {
@@ -105,14 +108,14 @@ body {
 }
 
 .form_section  {
-  font-size: 25px;
+  font-size: 20px;
     margin-top: 400px;
     color: white;
     background-color: #3a3a3a;
-    max-width: 400px;
+    max-width: 300px;
     position: absolute;
-    margin-left: 25px;
-    padding: 100px;
+    margin-left: 120px;
+    padding: 50px;
     float: left;
 }
 
@@ -127,8 +130,6 @@ body {
       width: 50%;
    }
   
-
-
 
 footer {
   height: 150px;
