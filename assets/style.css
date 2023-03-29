@@ -94,22 +94,28 @@ body {
   color: #3a3a3a;
 }
 
+#contact {
+  text-align: center;
+}
+
 .form_section  {
-    margin-top: 100px;
-    color: whitesmoke;
-    background-color: black;
-    max-width: 400px;
+  font-size: 25px;
+    margin-top: 400px;
+    color: white;
+    background-color: #3a3a3a;
+    max-width: 600px;
     position: absolute;
-    padding: 20px;
+    margin-left: 25px;
+    padding: 60px;
 }
 
-.img_form {
-  width: 50%;
-  height: 50%;
+.image_form {
+  height: 100%;
+  width: 100%;
+  margin-right: 25px;
 }
 
 
-#footer {
+footer {
   height: 150px;
-
 }
