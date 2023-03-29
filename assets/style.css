@@ -76,10 +76,7 @@ body {
     padding-bottom: 10px;
 }
 
-footer {
-    height: 150px;
 
- }
 
  .social-networks {
   text-align: center;
@@ -111,5 +108,8 @@ footer {
   height: 50%;
 }
 
-#send {
+
+#footer {
+  height: 150px;
+
 }
