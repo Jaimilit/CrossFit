@@ -26,6 +26,12 @@ body {
 
 #menu {
     float: right;
+    letter-spacing: 4px;
+    margin-right: 25px;
+}
+
+#menu li {
+  display: inline;
 }
 
 .strict-press {
@@ -103,17 +109,25 @@ body {
     margin-top: 400px;
     color: white;
     background-color: #3a3a3a;
-    max-width: 600px;
+    max-width: 400px;
     position: absolute;
     margin-left: 25px;
-    padding: 60px;
+    padding: 100px;
+    float: left;
 }
 
-.image_form {
-  height: 100%;
-  width: 100%;
-  margin-right: 25px;
-}
+.image_form { 
+  padding-top: 70px;
+  margin-right: 60px;
+      float: right;
+      line-height: 20px;
+      clear: both;
+      margin-bottom: 50px;
+      height: 50%;
+      width: 50%;
+   }
+  
+
 
 
 footer {
