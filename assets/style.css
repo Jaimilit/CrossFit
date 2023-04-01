@@ -25,9 +25,18 @@ body {
 }
 
 #menu {
+    font-size: 100%;
     float: right;
     letter-spacing: 1px;
     margin-right: 25px;
+}
+
+#menu li {
+  margin-right: 30px;
+  float: right;
+  line-height: 50px;
+  list-style-type: none;
+
 }
 
 #menu a {
@@ -39,8 +48,8 @@ body {
   border-bottom: 1px solid #3a3a3a;
 }
 
-#menu li {
-  display: inline;
+.active {
+  border-bottom: 1px solid #3a3a3a;
 }
 
 /* Index Page 3 sections */
