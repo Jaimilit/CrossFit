@@ -39,13 +39,11 @@ body {
 .definition {
   margin-left: 20px;
   padding-top: 25px;
-  padding-bottom: 25px;
  }
 
  .wod, .benefits {
   clear: both;
  }
-
 
 .img_left {
 height: 100%;
