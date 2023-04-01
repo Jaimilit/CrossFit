@@ -36,12 +36,30 @@ body {
     overflow: hidden;
 }
 
+#table {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 100px;
+ }
+
+ table {
+  width: 50%;
+  float: left;
+ }
+
   th, td {
     border: 1px solid black;
     padding: 10px;
     color: black;
   }
  
+  #katrin {
+    width: 50%;
+    float: right;
+    padding-top: 10px;
+   }
+  
 
   #wods {
     background-image: url(../assets/images/kettlebell_panorama.jpeg);
@@ -138,7 +156,7 @@ body {
 
 
 
-   .definition,{
+   .definition {
     margin-left: 20px;
     padding-top: 25px;
     padding-bottom: 25px;
@@ -177,7 +195,6 @@ body {
   margin-right: 50px;
   margin-top: 150px;
 }
-
 
 footer {
   height: 150px;
