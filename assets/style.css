@@ -40,7 +40,7 @@ body {
   height: 100%;
   width: 100%;
   overflow: hidden;
-  padding-top: 100px;
+  padding-top: 20px;
  }
 
  table {
@@ -55,9 +55,9 @@ body {
   }
  
   #katrin {
+    height: 600px;
     width: 50%;
     float: right;
-    padding-top: 10px;
    }
   
 
