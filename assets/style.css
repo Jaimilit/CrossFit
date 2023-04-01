@@ -13,11 +13,15 @@ body {
     background-color: lightgrey;
 }
 
+/* Header and Navigation */
+
+
 #logo {
    text-align: center;
+   color: black;
    font-size: 300%;
    letter-spacing: 6px;
-   background-color: #fafafa;
+   background-color: darkgray;
 }
 
 #menu {
@@ -30,10 +34,55 @@ body {
   display: inline;
 }
 
-.strict-press {
-    height: 100px;
-    width: 100%;
-    overflow: hidden;
+/* Index Page 3 sections */
+
+.definition {
+  margin-left: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+ }
+
+ .wod, .benefits {
+  clear: both;
+ }
+
+
+.img_left {
+height: 100%;
+width: 50%;
+float: left;
+overflow: hidden;
+}
+
+.img_right {
+height: 100%;
+width: 50%;
+float: right;
+overflow: hidden;
+}
+
+.right_side {
+width: 45%;
+text-align: center;
+float: right;
+margin-right: 50px;
+margin-top: 150px;
+}
+
+.left_side {
+width: 45%;
+text-align: center;
+float: left;
+margin-right: 50px;
+margin-top: 150px;
+}
+
+/* Terms Table from term and WODs page */
+
+#terms {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 200%;
 }
 
 #table {
@@ -59,6 +108,8 @@ body {
     width: 50%;
     float: right;
    }
+
+   /* Sample WODS section */
   
 
   #wods {
@@ -98,22 +149,7 @@ body {
 
 
 
- .social-networks {
-  text-align: center;
-
-}
-
-.social-networks > li {
-  display: inline;
-}
-
-.social-networks i {
-  font-size: 160%;
-  margin: 1%;
-  padding: 5%;
-  color: #3a3a3a;
-}
-
+/* Contact Us Page */
 #contact {
   text-align: center;
 }
@@ -136,7 +172,6 @@ body {
 }
 
 
-
 #send {
   color: #3a3a3a;
   padding: 5px;
@@ -154,48 +189,22 @@ body {
       float: right;
    }
 
+   /* Footer Info  */
 
-
-   .definition {
-    margin-left: 20px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-   }
-
-   .wod, .benefits {
-    clear: both;
-   }
-
- .img_left {
-  height: 100%;
-  width: 50%;
-  float: left;
-  overflow: hidden;
- }
-
-.img_right {
-  height: 100%;
-  width: 50%;
-  float: right;
-  overflow: hidden;
-}
-
-.right_side {
-  width: 45%;
+ .social-networks {
   text-align: center;
-  float: right;
-  margin-right: 50px;
-  margin-top: 150px;
+
 }
 
-.left_side {
-  width: 45%;
-  text-align: center;
-  float: left;
-  margin-right: 50px;
-  margin-top: 150px;
+.social-networks > li {
+  display: inline;
 }
 
-footer {
-  height: 150px;
+.social-networks i {
+  font-size: 160%;
+  margin: 1%;
+  padding: 5%;
+  color: #3a3a3a;
 }
+
+  
