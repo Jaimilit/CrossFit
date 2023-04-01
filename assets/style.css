@@ -148,6 +148,14 @@ margin-top: 150px;
 
 
 /* Contact Us Page */
+
+#contact_title {   
+  padding-top: 30px;
+  text-align: center;
+  font-size: 200%;
+
+}
+
 #contact {
   text-align: center;
 }
@@ -159,7 +167,7 @@ margin-top: 150px;
 
 .contact_form {
   font-size: 20px;
-    margin-top: 300px;
+    margin-top: 250px;
     color: white;
     background-color: #3a3a3a;
     max-width: 300px;
@@ -203,6 +211,5 @@ margin-top: 150px;
   padding: 5%;
   color: #3a3a3a;
 }
-
 
   
