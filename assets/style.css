@@ -29,7 +29,7 @@ body {
 
 #menu {
     float: right;
-    letter-spacing: 4px;
+    letter-spacing: 3px;
     margin-right: 25px;
 }
 
@@ -107,7 +107,12 @@ body {
   text-align: center;
 }
 
-.form_section  {
+.form_section 
+{ 
+   height: 850px;
+}
+
+.contact_form {
   font-size: 20px;
     margin-top: 400px;
     color: white;
@@ -115,21 +120,28 @@ body {
     max-width: 300px;
     position: absolute;
     margin-left: 120px;
-    padding: 50px;
+    padding: 20px;
     float: left;
 }
 
+
+
+#send {
+  color: #3a3a3a;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+  
 .image_form { 
   padding-top: 70px;
   margin-right: 60px;
-      float: right;
-      line-height: 20px;
       clear: both;
       margin-bottom: 50px;
-      height: 50%;
+      height: 100%;
       width: 50%;
+      float: right;
    }
-  
 
 footer {
   height: 150px;
