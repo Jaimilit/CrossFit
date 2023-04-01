@@ -8,9 +8,9 @@
 
 body {
     font-family: Domine, sans-serif;
-    color: rgb(61, 70, 84);
+    color: #66666e;
     font-weight: 300;
-    background-color: lightgrey;
+    background-color: #D5DBDB;
 }
 
 /* Header and Navigation */
@@ -18,15 +18,15 @@ body {
 
 #logo {
    text-align: center;
-   color: black;
+   color: whitesmoke;
    font-size: 300%;
-   letter-spacing: 6px;
-   background-color: darkgray;
+   letter-spacing: 5px;
+   background-color: #66666e;
 }
 
 #menu {
     float: right;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     margin-right: 25px;
 }
 
@@ -66,7 +66,7 @@ width: 45%;
 text-align: center;
 float: right;
 margin-right: 50px;
-margin-top: 150px;
+margin-top: 200px;
 }
 
 .left_side {
@@ -98,9 +98,9 @@ margin-top: 150px;
  }
 
   th, td {
-    border: 1px solid black;
+    border: 1px solid #66666e;
     padding: 10px;
-    color: black;
+    color:#66666e;
   }
  
   #katrin {
@@ -193,7 +193,6 @@ margin-top: 150px;
 
  .social-networks {
   text-align: center;
-
 }
 
 .social-networks > li {
@@ -206,5 +205,6 @@ margin-top: 150px;
   padding: 5%;
   color: #3a3a3a;
 }
+
 
   
