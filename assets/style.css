@@ -261,15 +261,25 @@ font-size: 20px;
 
 
       @media screen and (max-width: 950px) {
+
         #menu {
-           clear: left;
-           float: right;
-           margin-left: 5px;
-           margin-bottom: 20px;
-           line-height: 15px;
+          clear: both;
+          float: right;
+          margin-right: 5px;
+          margin-bottom: 10px;
+          line-height: 10px;
+          font-size: small;
         }
-  
-      
+
+        #menu li {
+          margin-right: 20px;
+          float: right;
+          line-height: 50px;
+          padding: 1px;
+
+        }
+
+
         .definition, .wod, .benefits {
           width: 90%;
           height: 50%;
@@ -305,6 +315,19 @@ font-size: 20px;
           font-size: 80%;
        }
      
+       #table {
+        width: 100%;
+         height: 1200px;
+         margin: 10%;
+       }
+
+       #katrin {
+
+        height: 300px;
+        width: 100%;
+        margin: 10%;
+       }
+
        #contact {
      
 
