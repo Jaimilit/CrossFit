@@ -174,10 +174,10 @@ font-size: 20px;
   text-align: center;
 }
 
-.form_section 
-{ 
-   height: 850px;
-}
+.form_section { 
+   height: 850px; 
+ 
+  }
 
 .contact_form {
   font-size: 20px;
@@ -345,22 +345,24 @@ font-size: 20px;
 
        }
 
-
-       .contact_form {
-        width: 90%;
-        height: 50%;
-        margin: 5px;
-        padding: 0 auto;
-       }
+  .form_section {
+         height: 300px;
+          width: 100%;
+          text-align: center;
+          overflow: hidden
+          padding: auto;
+          margin: 0 auto;
+  }
+        
 
        .image_form {
         height: 300px;
-        width: 50%;
-        margin: 100px;
-
+        width: 100%;
+        padding-top: 50px;
        }
 
        footer {
+        margin: 5px;
       }
 
       
