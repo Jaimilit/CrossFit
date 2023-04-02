@@ -59,19 +59,18 @@ body {
  .wod, .benefits {
   clear: both;  
  }
+
  
 .img_left {
 height: 100%;
 width: 50%;
 float: left;
-overflow: hidden;
 }
 
 .img_right {
 height: 100%;
 width: 50%;
 float: right;
-overflow: hidden;
 }
 
 .right_side {
@@ -234,10 +233,62 @@ font-size: 20px;
 
    /* Change for tablets */
 
+   @media screen and (max-width: 1200px) 
+  
+    .definition, .wod, .benefits {
+       width: 50%%;
+       height: 1200px;
+       margin: 0 auto;
+       text-align: center;
+    }
+
+   .img_right {
+    width: 50%;
+    float: right;
+ }
+
+ .img_left {
+  width: 50;
+  float: left;
+  padding: 0;
+ }
 
 
 
       /* Change for phones  */
+
+
+
+      @media screen and (max-width: 950px) {
+        #menu {
+           clear: left;
+           float: right;
+           margin-left: 30px;
+           margin-bottom: 20px;
+           line-height: 25px;
+        }
+  
+      
+        .definition, .wod, .benefits {
+          width: 90%;
+          height: 50%;
+          padding: auto;
+          margin: 0 auto;
+       }
+
+        .img_right, .img_left {
+          height: 300px;
+          width: 100%;
+          float: center;
+        }
+
+        .right_side, .left_side {
+          height: 300px;
+          width: 100%;
+          margin: 15px 5% 5px 5%;
+          text-align: center;
+          overflow: hidden
+        }
 
 
   
