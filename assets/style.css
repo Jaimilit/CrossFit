@@ -59,7 +59,7 @@ body {
  .wod, .benefits {
   clear: both;  
  }
-
+ 
 .img_left {
 height: 100%;
 width: 50%;
@@ -92,7 +92,7 @@ margin-top: 100px;
 font-size: 20px;
 }
 
-/* Terms Table from term and WODs page */
+/* Terms Table and WODs page */
 
 #terms {
   padding-top: 50px;
@@ -124,7 +124,7 @@ font-size: 20px;
     float: right;
    }
 
-   /* Sample WODS section */
+   /* Sample WODS section - From Love Running Project - Adjusted as Needed */
   
 
   #wods {
@@ -152,6 +152,7 @@ font-size: 20px;
  #famous_wods {
     text-align: center;
     font-size: 200%;
+    padding-top: 20px;
   }
 
   div p {
@@ -209,11 +210,10 @@ font-size: 20px;
       float: right;
    }
 
-   /* Footer Info  */
+   /* Footer Info - From Love Running Project - Adjusted as Needed  */
 
    footer {
     height: 150px;
-
  }
 
  .social-networks {
@@ -227,14 +227,14 @@ font-size: 20px;
 .social-networks i {
   font-size: 160%;
   margin: 1%;
-  padding: 5%;
+  padding: 7%;
   color: #343a40;
 }
 
 
    /* Change for tablets */
 
-   
+
 
 
       /* Change for phones  */
