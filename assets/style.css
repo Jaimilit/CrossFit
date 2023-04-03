@@ -54,6 +54,7 @@ body {
 
 .definition {
   margin-left: 20px;
+
  }
 
  .wod, .benefits {
@@ -61,15 +62,6 @@ body {
  }
 
 
- .benefits li {
-  padding: 3px;
-  padding-top: 0;
- }
-
- .benefits {
- }
- 
- 
 .img_left {
 height: 100%;
 width: 50%;
@@ -94,8 +86,8 @@ width: 45%;
 text-align: center;
 float: right;
 margin-right: 50px;
-margin-top: 100px;
-margin-bottom: 100px;
+margin-top: 200px;
+margin-bottom: 200px;
 font-size: 20px;
 }
 
@@ -107,6 +99,11 @@ margin-right: 50px;
 margin-top: 100px;
 margin-bottom: 100px;
 font-size: 20px;
+}
+
+.image_ropes {
+  width: 100%;
+  height: auto;
 }
 
 
@@ -236,6 +233,7 @@ font-size: 20px;
 
  .social-networks {
   text-align: center;
+  position: relative;
 }
 
 .social-networks > li {
