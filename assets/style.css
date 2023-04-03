@@ -102,16 +102,14 @@ font-size: 20px;
 }
 
 .intrigue  {
-  font-size: 50px;
-  margin-top: 5px;
+  clear: both;
+  font-size: 40px;
   text-align: center;
 }
 .intrigue p {
-  font-size: 50px;
+  font-size: 30px;
   text-align: center;
-  padding: 5px;
-  margin: 20%;
-  float: left;
+  clear: both;
 }
 
 
