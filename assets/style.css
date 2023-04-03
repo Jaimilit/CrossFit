@@ -101,9 +101,17 @@ margin-bottom: 100px;
 font-size: 20px;
 }
 
-.image_ropes {
-  width: 100%;
-  height: auto;
+.intrigue  {
+  font-size: 50px;
+  margin-top: 5px;
+  text-align: center;
+}
+.intrigue p {
+  font-size: 50px;
+  text-align: center;
+  padding: 5px;
+  margin: 20%;
+  float: left;
 }
 
 
