@@ -311,37 +311,38 @@ font-size: 20px;
           font-size: 20px;
         }
 
-        #wods > div {
-          width: 100%;
-          clear: both;
-          height: 100%;
-          padding: 0;
-          font-size: 80%;
-       }
      
        #table {
         text-align: center;
-        float: none;
+        float: left;
         width: 100%;
         height: 100%;
-        padding: 0;
-        font-size: 80%;  
-  
+        padding: 5px;
+        font-size: 80%;   
        }
+     
+       .table {
+        margin: 5px 25%;
+      }
 
-       #table a {
-        width: 80%;
-        margin: 0 auto;
-       
-       }
+      
 
        #katrin {
         width: 100%;
         clear: both;
+        float: none;
         height: 100%;
         padding: 0;
        }
 
+       #wods > div {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+        font-size: 80%;
+     }
+    
 
        #contact_title {
         font-size: 20px;
@@ -353,14 +354,14 @@ font-size: 20px;
 
       .form_section {
         padding: 5px;
-        margin: 0;
-        margin-bottom: 0;
-      padding-bottom: 0;
+        margin: 5px;
       }
       
       .contact_form {
         margin: 20%;
       }
+
+ 
 
        .image_form {
         display: none;
