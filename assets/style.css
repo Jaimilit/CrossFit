@@ -176,6 +176,7 @@ font-size: 20px;
 
 .form_section { 
    height: 850px; 
+  
  
   }
 
@@ -189,6 +190,7 @@ font-size: 20px;
     margin-left: 120px;
     padding: 20px;
     float: left;
+
 }
 
 
@@ -345,19 +347,24 @@ font-size: 20px;
         font-size: 20px;
         margin-top: 50px;
         text-align: center;
-
+  
        }
 
 
-       .form_section a {
-        height: 80%;
-        width: 80%;
+      .form_section {
+        padding: 5px;
+        margin: 0;
+        margin-bottom: 0;
+      padding-bottom: 0;
+      }
+      
+      .contact_form {
+        margin: 20%;
       }
 
        .image_form {
         display: none;
-       
-       }
+              }
 
   
     }
