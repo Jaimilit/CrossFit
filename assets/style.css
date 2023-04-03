@@ -322,10 +322,12 @@ font-size: 20px;
        }
      
        .table {
-        margin: 5px 25%;
+        width: 600px;
+        margin: 5px 15%;
+        
       }
 
-      
+  
 
        #katrin {
         width: 100%;
@@ -358,16 +360,21 @@ font-size: 20px;
       }
       
       .contact_form {
-        margin: 20%;
-      }
+        margin: 5% 10%;
+        margin-bottom: 0;
+      }      
 
  
 
        .image_form {
         display: none;
               }
-
   
+  
+
+    footer {
+      margin: 0;
+      padding: 0;
     }
 
   
