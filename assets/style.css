@@ -393,7 +393,7 @@ th, td {
         }
 
       .left_side {
-        height: 300px;
+        height: 350px;
         width: 100%;
         text-align: center;
         padding: 50px 50px 10px 0;
@@ -458,7 +458,7 @@ th, td {
     .form_section {
       text-align: center;
       height: 300px;
-      margin: 0 85px 30% 0;
+      margin: 0 85px 35% 0;
       padding: 40px;
     }
   
