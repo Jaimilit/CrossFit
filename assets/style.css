@@ -301,6 +301,7 @@ font-size: 20px;
 
 
       @media screen and (max-width: 920px) {
+      
 
       
         #menu {
@@ -432,6 +433,101 @@ font-size: 20px;
 
   
 
+    @media screen and (min-width: 0px) and (max-width: 480px) {
+
+      #menu {
+        clear: both;
+        float: right;
+        margin-right: 5px;
+        margin-bottom: 10px;
+        line-height: 10px;
+        font-size: x-small;
+      }
+
+      #menu li {
+        margin-right: 20px;
+        float: right;
+        line-height: 50px;
+        padding: 1px;
+
+      }
+
+
+      .definition, .wod, .benefits {
+        clear: both;
+        text-align: center;
+        width: 90%;
+        height: 50%;
+        padding: auto;
+        margin: 0 auto;
+     }
+
+
+      .img_right, .img_left {
+        height: 200px;    
+      width: 100%;
+      padding: 0;
+      margin: 0 auto;
+        }
+
+      .img_right_side {
+        height: 200px;    
+      width: 100%;
+      padding: 0;
+      }
+
+      .left_side, .right_side  {
+        height: 300px;
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        font-size: 17px;
+        overflow: hidden;
+        padding-top: 50px;
+        padding-bottom: 0;
+      }
+
+      .intrigue {
+        clear: both;
+        text-align: center;
+        width: 90%;
+        height: 50%;
+        padding: 5%;
+     }
+
+
+     #table {
+      text-align: center;
+      float: left;
+      height: 100%;
+      font-size: 80%;   
+     }
+
+     .table {
+      width: 600px;
+      padding: 50px;
+      margin: 0 auto;
+    }
+
+  
+
+    .form_section {
+      width: 600px;
+      padding: 50px;
+      margin: 0 auto;
+    }
+  
+    .contact_form {
+      margin: 0 auto;
+      padding: 0 auto;
+    
+    }    
+
+    .image_form {
+      display: none;
+     }
+
+    }
   
 
 
