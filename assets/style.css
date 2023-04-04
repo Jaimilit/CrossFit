@@ -396,7 +396,7 @@ th, td {
         height: 300px;
         width: 100%;
         text-align: center;
-        padding: 50px 50px 0 0;
+        padding: 50px 50px 10px 0;
         margin-bottom: -10%;
       }
 
@@ -458,7 +458,7 @@ th, td {
     .form_section {
       text-align: center;
       height: 300px;
-      margin: 0 85px 20% 0;
+      margin: 0 85px 30% 0;
       padding: 40px;
     }
   
