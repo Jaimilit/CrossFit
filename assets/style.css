@@ -15,7 +15,6 @@ body {
 
 /* Header and Navigation */
 
-
 #logo {
    text-align: center;
    color: whitesmoke;
@@ -31,15 +30,15 @@ body {
 }
 
 #menu li {
-  margin-right: 30px;
-  float: right;
-  line-height: 50px;
-  list-style-type: none;
+   margin-right: 30px;
+   float: right;
+   line-height: 50px;
+   list-style-type: none;
 }
 
 #menu a {
-  text-decoration: none;
-  color: inherit;
+   text-decoration: none;
+   color: inherit;
 }
 
 #menu a:hover {
@@ -63,83 +62,83 @@ body {
 
 
 .img_left {
-height: 100%;
-width: 50%;
-float: left;
+    height: 100%;
+    width: 50%;
+    float: left;
 }
 
 .img_right {
-height: 100%;
-width: 50%;
-float: right;
+    height: 100%;
+    width: 50%;
+    float: right;
 }
 
 .img_right_side {
-  height: 100%;
-width: 50%;
-float: right;
+    height: 100%;
+    width: 50%;
+    float: right;
 }
 
 
 .right_side {
-width: 45%;
-text-align: center;
-float: right;
-margin-right: 50px;
-margin-top: 200px;
-margin-bottom: 200px;
-font-size: 20px;
+    width: 45%;
+    text-align: center;
+    float: right;
+    margin-right: 50px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    font-size: 20px;
 }
 
 .left_side {
-width: 45%;
-text-align: center;
-float: left;
-margin-right: 50px;
-margin-top: 100px;
-margin-bottom: 100px;
-font-size: 20px;
+    width: 45%;
+    text-align: center;
+    float: left;
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 20px;
 }
 
 .intrigue  {
-  clear: both;
-  font-size: 40px;
-  text-align: center;
-}
-.intrigue p {
-  font-size: 30px;
-  text-align: center;
-  clear: both;
+    clear: both;
+    font-size: 40px;
+    text-align: center;
 }
 
+.intrigue p {
+    font-size: 30px;
+    text-align: center;
+    clear: both;
+}
 
 /* Terms Table and WODs page */
 
 #terms {
-  padding-top: 50px;
-  text-align: center;
-  font-size: 200%;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 200%;
 }
 
 #table {
-  height: 100%;
-  width: 100%;
-  padding-top: 20px;
-  overflow: hidden;
+    height: 100%;
+    width: 100%;
+    padding-top: 20px;
+    overflow: hidden;
  }
 
- table {
-  width: 50%;
-  float: left;
+table {
+    width: 50%;
+    float: left;
  }
 
-  th, td {
+th, td {
     border: 1px solid #343a40;
     padding: 10px;
     color: #343a40;
   }
  
-  #katrin {
+ #katrin {
     height: 600px;
     width: 50%;
     float: right;
@@ -181,15 +180,12 @@ font-size: 20px;
     padding-bottom: 10px;
 }
 
-
-
 /* Contact Us Page */
 
 #contact_title {   
   padding-top: 50px;
   text-align: center;
   font-size: 200%;
-
 }
 
 #contact {
@@ -198,12 +194,10 @@ font-size: 20px;
 
 .form_section { 
    height: 850px; 
-  
- 
   }
 
 .contact_form {
-  font-size: 20px;
+    font-size: 20px;
     margin-top: 250px;
     color: white;
     background-color: #3a3a3a;
@@ -212,20 +206,17 @@ font-size: 20px;
     margin-left: 120px;
     padding: 20px;
     float: left;
-
 }
-
 
 #send {
-  color: #3a3a3a;
-  padding: 5px;
-  border-radius: 5px;
+   color: #3a3a3a;
+   padding: 5px;
+   border-radius: 5px;
 }
 
-
 .image_form { 
-  padding-top: 70px;
-  margin-right: 60px;
+      padding-top: 70px;
+      margin-right: 60px;
       height: 75%;
       width: 50%;
       float: right;
@@ -253,15 +244,14 @@ font-size: 20px;
   color: #343a40;
 }
 
-
    /* Change for tablets */
 
    @media screen and (max-width: 1200px) { 
   
-    .definition, .wod, .benefits {
-      width: 90%;
-      height: 1200px;
-      margin: 0 auto;
+ .definition, .wod, .benefits {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
     }
 
     .left_side, .right_side {
@@ -274,19 +264,19 @@ font-size: 20px;
       padding-top: 10%;
     }
 
-.img_right {
- float: right;
- width: 80%;
- height: 80%;
- padding: 0 10%;
+  .img_right {
+      float: right;
+      width: 80%;
+      height: 80%;
+      padding: 0 10%;
   }
 
-  .img_right_side
-  {
+  .img_right_side {
     float: right;
     width: 80%;
     height: 80%;
-    padding: 0 10%;  }
+    padding: 0 10%; 
+}
 
  .img_left {
   float: left;
@@ -295,14 +285,9 @@ font-size: 20px;
   padding: 0 10%; }
 }
 
-
       /* Change for phones  */
 
-
-
       @media screen and (max-width: 920px) {
-      
-
       
         #menu {
           clear: both;
@@ -318,9 +303,7 @@ font-size: 20px;
           float: right;
           line-height: 50px;
           padding: 1px;
-
         }
-
 
         .definition, .wod, .benefits {
           clear: both;
@@ -333,15 +316,14 @@ font-size: 20px;
 
         .img_right, .img_left {
           height: 300px;    
-        width: 90%;
-        margin: 2%;
-
+          width: 90%;
+          margin: 2%;
           }
 
         .img_right_side {
           height: 300px;    
-        width: 90%;
-        margin: 0;
+          width: 90%;
+          margin: 0;
         }
 
         .left_side, .right_side  {
@@ -362,14 +344,12 @@ font-size: 20px;
           padding: 5%;
        }
 
-
         #terms {
            margin: 20px;
           text-align: center;
           font-size: 20px;
         }
 
-     
        #table {
         text-align: center;
         float: left;
@@ -399,20 +379,17 @@ font-size: 20px;
         font-size: 80%;
      }
     
-
        #contact_title {
         font-size: 20px;
         margin-top: 50px;
         text-align: center;
        }
   
-
       .form_section {
         clear: both;
         margin-bottom: 0;
         padding: 5%;
         position: relative;
-
       }
       
       .contact_form {
@@ -422,16 +399,10 @@ font-size: 20px;
         margin-left: 2%;
       }      
 
-
        .image_form {
         display: none;
        }
-
-
-
     }
-
-  
 
     @media screen and (min-width: 0px) and (max-width: 480px) {
 
@@ -449,9 +420,7 @@ font-size: 20px;
         float: right;
         line-height: 50px;
         padding: 1px;
-
       }
-
 
       .img_right, .img_left {
         height: 200px;    
@@ -477,7 +446,6 @@ font-size: 20px;
         padding-bottom: 0;
       }
 
-
      #table {
       text-align: center;
       float: left;
@@ -492,9 +460,9 @@ font-size: 20px;
     }
 
   
-#famous_wods {
-  margin-top: 5%;
-}
+      #famous_wods {
+       margin-top: 5%;
+    }
 
     .form_section {
       height: 300px;
@@ -508,7 +476,6 @@ font-size: 20px;
     .contact_form {
       margin: 0 auto;
       padding: 0 auto;
-    
     }    
 
     .image_form {
@@ -516,8 +483,6 @@ font-size: 20px;
      }
 
     }
-  
-
 
   
   
