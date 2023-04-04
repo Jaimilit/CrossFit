@@ -283,8 +283,9 @@ font-size: 20px;
 
 
 
-      @media screen and (max-width: 950px) {
+      @media screen and (max-width: 920px) {
 
+      
         #menu {
           clear: both;
           float: right;
@@ -304,6 +305,8 @@ font-size: 20px;
 
 
         .definition, .wod, .benefits {
+          clear: both;
+          text-align: center;
           width: 90%;
           height: 50%;
           padding: auto;
@@ -311,18 +314,28 @@ font-size: 20px;
        }
 
         .img_right, .img_left {
-          height: 300px;
-          width: 100%;
+          height: 300px;    
+        width: 90%;
+        margin: 2%;
+
+          }
+
+        .img_right_side {
+          height: 300px;    
+        width: 90%;
+        margin: 0;
         }
 
-        .right_side, .left_side {
+        .left_side, .right_side  {
           height: 300px;
           width: 100%;
-          margin: 15px 5% 5px 5%;
           text-align: center;
+          margin: 0;
+          font-size: 17px;
           overflow: hidden;
-          font-size: 25px;
+          padding-top: 70px;
         }
+
 
 
         #terms {
