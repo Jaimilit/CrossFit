@@ -259,22 +259,32 @@ font-size: 20px;
    @media screen and (max-width: 1200px) { 
   
     .definition, .wod, .benefits {
-       width: 50%;
-       height: 1200px;
-       margin: 0 auto;
-       text-align: center;
+      width: 90%;
+      height: 1200px;
+      margin: 0 auto;
     }
 
-   .img_right {
-    width: 50%;
-    float: right;
-    padding: 0;
- }
+    .left_side, .right_side  {
+      width: 90%;
+      height: 1200px;
+      margin: 0;
+      text-align: center;
+      padding: 0 auto;
+
+     
+    }
+
+.img_right {
+ width: inherit;
+  }
+
+  .img_right_side
+  {
+  width: inherit;
+  }
 
  .img_left {
-  width: 50%;
-  float: left;
-  padding: 0;
+ width: inherit ;
  }
 }
 
@@ -409,7 +419,7 @@ font-size: 20px;
         display: none;
        }
 
-  
+
 
     }
 
