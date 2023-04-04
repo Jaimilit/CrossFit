@@ -412,19 +412,29 @@ th, td {
 
       .img_right_side {
         height: 200px;    
-      width: 100%;
-      padding: 0;
+        width: 100%;
+        padding: 0;
       }
 
-      .left_side, .right_side  {
+      .left_side {
         height: 300px;
         width: 100%;
         text-align: center;
         margin: 0;
         font-size: 17px;
-        overflow: hidden;
         padding: 50px 20px 0 0;
       }
+
+      .right_side  { 
+      height: 300px;
+      width: 100%;
+      text-align: center;
+      margin: 0;
+      font-size: 17px;
+      padding-left: 50px;
+      padding-top: 50px;
+      padding-bottom: 0;
+    }
 
       /* Terms & WODs Page */
 
