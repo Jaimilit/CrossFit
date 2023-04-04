@@ -264,28 +264,35 @@ font-size: 20px;
       margin: 0 auto;
     }
 
-    .left_side, .right_side  {
+    .left_side, .right_side {
+      clear: both;
       width: 90%;
-      height: 1200px;
+      height: 25%;
+      margin-top: 20px;
       margin: 0;
       text-align: center;
-      padding: 0 auto;
-
-     
+      padding-top: 10%;
     }
 
 .img_right {
- width: inherit;
+ float: right;
+ width: 80%;
+ height: 80%;
+ padding: 0 10%;
   }
 
   .img_right_side
   {
-  width: inherit;
-  }
+    float: right;
+    width: 80%;
+    height: 80%;
+    padding: 0 10%;  }
 
  .img_left {
- width: inherit ;
- }
+  float: left;
+  width: 80%;
+  height: 80%;
+  padding: 0 10%; }
 }
 
 
