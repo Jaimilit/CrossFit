@@ -268,7 +268,7 @@ th, td {
   padding: 50px;
 }
 
-      /* Change for phones 920px Max */
+      /* Change for phones and smaller devices */
 
       @media screen and (min-width: 480px) and (max-width: 920px) {
       
@@ -291,21 +291,14 @@ th, td {
         }
 
         .left_side, .right_side  {
-          height: 80%;
-          width: 80%;
-          margin-top: 2px;
+          height: 90%;
+          width: 90%;
           padding-top: 5%;
-        }
-
-        .benefits, .definition {
-          text-align: center;
-          margin: 20px 5px 5px 10px;
         }
         
         .img_right, .img_left, .img_right_side {
           height: 80%;    
           width: 80%;
-          padding: 0 10%;
           }
 
        /* Terms & WODs Page */
@@ -324,15 +317,15 @@ th, td {
         font-size: 80%;   
        }
      
-       .table {
-        margin: 5px 5px;
-      }
-
        #katrin {
         width: 50%;
         float: none;
         height: 100%;
-        padding-top: 50px;
+        padding-top: 15%;
+       }
+
+       #famous_wods {
+        margin-top: 5%;
        }
 
        #wods > div {
@@ -355,8 +348,8 @@ th, td {
         height: 300px;
       width: 100%;
       text-align: center;
-      margin: 0 25% 50px 25%;
       font-size: 17px;
+      margin: 0 20% 50px 20%;
       padding: 30px;
       }
 
@@ -364,7 +357,6 @@ th, td {
         margin: 2%;
         padding: 30px;
       }     
-
 
        .image_form {
         display: none;
