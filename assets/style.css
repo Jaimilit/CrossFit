@@ -356,37 +356,36 @@ th, td {
      /* Contact Us Page */
     
        #contact_title {
-        font-size: 20px;
-        margin: 50px;
-        text-align: center;
+        font-size: 80%;
+      text-align: center;
+      margin: 20px;
        }
-  
+      
       .form_section {
         height: 300px;
-        width: 100%;
-        text-align: center;
-        font-size: 17px;
+      width: 100%;
+      text-align: center;
+      margin: 0 25% 50px 25%;
+      font-size: 17px;
+      padding: 30px;
       }
 
       .contact_form {
-        padding: 0 50px 0 0;
-        margin: 20px;
-      }      
+        margin: 2%;
+        padding: 30px;
+      }     
 
 
        .image_form {
-        height: 200px;
-        width: 50%;
+        display: none;
        }
     }
 
     /* Change for devices 0 - 480px */
 
-
     @media screen and (min-width: 0px) and (max-width: 480px) {
 
 /* Index Page */
-
 
       #menu {
         clear: both;
@@ -403,6 +402,7 @@ th, td {
         line-height: 50px;
         padding: 1px;
       }
+
 
     .img_right, .img_left {
       height: 200px;    
@@ -462,7 +462,7 @@ th, td {
 
     #katrin {
       width: 95%;
-      height: 80%;
+      height: 95%;
       float: none;
     }
   
