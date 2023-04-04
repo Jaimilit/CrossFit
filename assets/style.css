@@ -336,6 +336,13 @@ font-size: 20px;
           padding-top: 70px;
         }
 
+        .intrigue {
+          clear: both;
+          text-align: center;
+          width: 90%;
+          height: 50%;
+          padding: 5%;
+       }
 
 
         #terms {
@@ -355,7 +362,7 @@ font-size: 20px;
      
        .table {
         width: 600px;
-        margin: 5px 15%;
+        margin: 5px 5px;
       }
 
        #katrin {
@@ -382,20 +389,27 @@ font-size: 20px;
        }
   
 
-
       .form_section {
-        padding: 5px;
-        margin: 5px;
+        clear: both;
+        margin-bottom: 0;
+        padding: 5%;
+        position: relative;
+
       }
       
       .contact_form {
-        margin: 5% 10%;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        margin-right: 2%;
+        margin-left: 2%;
       }      
 
 
        .image_form {
         display: none;
        }
+
+  
 
     }
 
