@@ -458,12 +458,12 @@ th, td {
     .form_section {
       text-align: center;
       height: 300px;
-      margin: 0 85px 35% 0;
+      margin: 0 35% 35% 0;
       padding: 40px;
     }
   
     .contact_form {
-      margin: 5% 0 5% 0;
+      margin: 5% 5% 5% 0;
       padding: 30px;
     }    
 
