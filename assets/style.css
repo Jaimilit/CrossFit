@@ -387,7 +387,7 @@ th, td {
 
 
     .img_right, .img_left {
-      height: 200px;    
+      height: 100%;    
       width: 100%;
       padding: 0;
         }
@@ -396,16 +396,15 @@ th, td {
         height: 300px;
         width: 100%;
         text-align: center;
-        margin: 0;
-        margin-bottom: -10%;
-        font-size: 17px;
         padding: 50px 50px 0 0;
+        margin-bottom: -10%;
       }
 
       .right_side  { 
       height: 300px;
       width: 80%;
       text-align: center;
+      margin-bottom: -10%;
       margin: 0 0 -30% 30%;
       padding: 50px 50px 0 50px;
     }  
@@ -420,15 +419,14 @@ th, td {
 
      #table {
       text-align: center;
-      width: 100vw;
       font-size: 80%; 
-      margin: 0 auto;
+      width: 100%;
      }
 
      .table {
      float: none;
-     width: 100vw;
      padding: 5px 25% 5px 25%;
+     margin: 0 auto;
     }
 
     #katrin {
@@ -458,9 +456,8 @@ th, td {
     }
 
     .form_section {
-      height: 300px;
-      width: 100%;
       text-align: center;
+      height: 300px;
       margin: 0 75px 20% 0;
       padding: 40px;
     }
