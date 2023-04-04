@@ -475,7 +475,7 @@ th, td {
   
     .contact_form {
       margin: 0 auto;
-      padding: 0 auto;
+      padding: 0 5px 0 0;
     }    
 
     .image_form {
