@@ -244,51 +244,47 @@ th, td {
   color: #343a40;
 }
 
-   /* Change for tablets */
+   /* Change for tablets - max 1200px */
 
    @media screen and (max-width: 1200px) { 
-  
- .definition, .wod, .benefits {
-    width: 90%;
-    height: 1200px;
-    margin: 0 auto;
-    }
 
     .left_side, .right_side {
-      clear: both;
       width: 90%;
-      height: 25%;
-      margin-top: 20px;
-      margin: 0;
-      text-align: center;
-      padding-top: 10%;
+      height: 20%;
+      margin-top: 2px;
+      padding-top: 5%;
     }
 
   .img_right {
-      float: right;
       width: 80%;
       height: 80%;
       padding: 0 10%;
   }
 
+  .img_left {
+    width: 80%;
+    height: 80%;
+    padding: 0 10%; 
+  }
+  }
+
   .img_right_side {
-    float: right;
     width: 80%;
     height: 80%;
     padding: 0 10%; 
 }
 
- .img_left {
-  float: left;
-  width: 80%;
-  height: 80%;
-  padding: 0 10%; }
+.intrigue {
+  padding: 50px;
 }
 
-      /* Change for phones  */
+      /* Change for phones 920px Max */
 
       @media screen and (max-width: 920px) {
       
+        /* Index Page */
+
+
         #menu {
           clear: both;
           float: right;
@@ -344,6 +340,8 @@ th, td {
           padding: 5%;
        }
 
+       /* Terms & WODs Page */
+
         #terms {
            margin: 20px;
           text-align: center;
@@ -378,6 +376,9 @@ th, td {
         padding: 0;
         font-size: 80%;
      }
+
+     /* Contact Us Page */
+
     
        #contact_title {
         font-size: 20px;
@@ -404,7 +405,13 @@ th, td {
        }
     }
 
+    /* Change for devices 0 - 480px */
+
+
     @media screen and (min-width: 0px) and (max-width: 480px) {
+
+/* Index Page */
+
 
       #menu {
         clear: both;
@@ -446,6 +453,9 @@ th, td {
         padding-bottom: 0;
       }
 
+      /* Terms & WODs Page */
+
+
      #table {
       text-align: center;
       float: left;
@@ -463,6 +473,8 @@ th, td {
       #famous_wods {
        margin-top: 5%;
     }
+
+    /* Contact Us Page */
 
     .form_section {
       height: 300px;
