@@ -321,7 +321,7 @@ th, td {
         width: 50%;
         float: none;
         height: 100%;
-        padding-top: 15%;
+        padding-top: 10%;
        }
 
        #famous_wods {
@@ -452,9 +452,10 @@ th, td {
     }
 
     .form_section {
+      margin: 0 auto;
       text-align: center;
       height: 300px;
-      padding: 40px;
+      padding: 10%;
         }
 
     .contact_form {
