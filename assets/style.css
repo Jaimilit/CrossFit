@@ -238,12 +238,20 @@ th, td {
 
    @media screen and (max-width: 1200px) { 
 
-    .left_side, .right_side {
+    .right_side  {
+      margin: 0 auto;
+      height: 90%;
       width: 90%;
-      height: 20%;
-      margin-top: 2px;
-      padding-top: 5%;
+      padding: 2%;
     }
+
+    .left_side {
+      margin: 0 auto;
+      height: 90%;
+      width: 90%;
+      padding: 2%;
+    }
+
 
   .img_right {
       width: 80%;
@@ -290,10 +298,15 @@ th, td {
           padding: 1px;
         }
 
-        .left_side, .right_side  {
+        .right_side  {
           height: 90%;
           width: 90%;
-          padding-top: 5%;
+        }
+
+        .left_side {
+          height: 90%;
+          width: 90%;
+          padding: 2% 5% 0 5%;
         }
         
         .img_right, .img_left, .img_right_side {
