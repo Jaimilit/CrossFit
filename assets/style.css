@@ -417,20 +417,18 @@ th, td {
         padding-top: 75px;
       }
 
-     #table {
+     table {
+      margin: 0 auto;
       text-align: center;
       font-size: 80%; 
-      width: 100%;
+      float: none;
+      width: 100vw;
      }
 
-     .table {
-     float: none;
-     padding: 5px 25% 5px 25%;
-     margin: 0 auto;
-    }
+     
 
     #katrin {
-      width: 95%;
+      width: 100%;
       height: 95%;
       float: none;
     }
