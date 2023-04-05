@@ -277,7 +277,7 @@ th, td {
   padding: 50px;
 }
 
-#tia_image { 
+#katrin { 
 width: 50%;
 float: none;
 height: 100%;
@@ -337,7 +337,7 @@ height: 100%;
         font-size: 80%;   
        }
      
-       #tia_image {
+       #katrin {
         width: 50%;
         float: none;
         height: 100%;
@@ -446,7 +446,7 @@ height: 100%;
       width: 100vw;
      }
 
-     #tia_image {
+     #katrin {
       width: 100%;
       height: 95%;
       float: none;
@@ -466,6 +466,8 @@ height: 100%;
 
     /* Contact Us Page */
 
+   
+
     #contact_title {
       font-size: 80%;
       text-align: center;
@@ -473,17 +475,19 @@ height: 100%;
     }
 
     .form_section {
-      margin: 0 auto;
-      text-align: center;
-      height: 300px;
-      width: 100%;
-      padding: 10%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin-bottom: -30%;
         }
+        
 
     .contact_form {
-       margin: 0 auto;
+      margin: 0 auto;
+      margin-top: -80%;
+      margin-bottom: -40%;
        width: 100%;
-      padding: 30px;
     }
 
     .image_form {
