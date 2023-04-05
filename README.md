@@ -6,6 +6,17 @@ This project was created to provide information on what CrossFit is and to provi
 
 FEATURES
 
+Languages Used
+
+HTML
+CSS
+
+Colors
+
+I chose a gray theme chosen from the color palette on coolors. I wanted to keep it simple and wanted the images to pop more. I wanted the images and the text to pop, so I kept a simple, light gray background. For the header and the footer, I used a dark gray to contrast the background. I used white text in the logo to make it pop more.
+
+
+
 Navigation Bar
 
 Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us page to allow easy navigation.
@@ -31,4 +42,27 @@ Contact Us Page
 This page provides the user a form in which he/she/they can contact us if wanting more information about CrossFit. It also uses a radio button to ask the user why they are interested in CrossFit, so that we can provide information accordingly. It asks to provide first name, last name, and email address. 
 
 Testing
+
+
+
+Validator Testing
+HTML
+No errors were returned when passing through the official W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+
+Unfixed Bugs
+
+
+Deployment
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+
+
 
