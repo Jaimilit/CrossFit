@@ -56,13 +56,37 @@ Unfixed Bugs
 
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+For this project I used GitHub
+
+The live link can be found here - https://jaimilit.github.io/Portfolio-One/contact_us.html
+
+Credits
+
+Content
+Text for the index page is taken from Shape at https://www.shape.com/what-is-crossfit-training-7096578
+Benefits was also taken from Shape at https://www.shape.com/fitness/tips/health-fitness-benefits-crossfit
+The terms for the table were taken from this website https://www.crossfitsalemoor.com/crossfit/crossfit-terminology/
+Famous wods were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/
+https://www.getsweatgo.com/workout/guides/best-crossfit-workouts-17
+The icons in the footer were taken from Font Awesome
+
+Media
+
+Images were taken from the following:
+
+Pexels
+the Barbell for the contact us page - https://www.pexels.com/photo/black-barbell-685530/
+barbell for the benefits section - https://www.pexels.com/photo/woman-in-black-sportswear-lifting-a-barbell-7674497/
+
+
+
+kettlebell for famous wods section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
+First image for definiton was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
+For the image on the terms page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
+Women on the wods page is taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
+
+
 
 
 
