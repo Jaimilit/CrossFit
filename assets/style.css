@@ -425,8 +425,6 @@ th, td {
       width: 100vw;
      }
 
-     
-
     #katrin {
       width: 100%;
       height: 95%;
@@ -456,14 +454,14 @@ th, td {
     .form_section {
       text-align: center;
       height: 300px;
-      margin: 0 35% 35% 0;
       padding: 40px;
-    }
-  
+        }
+
     .contact_form {
-      margin: 5% 5% 5% 0;
+       margin: 0 auto;
+       width: 100%;
       padding: 30px;
-    }    
+    }
 
     .image_form {
       display: none;
