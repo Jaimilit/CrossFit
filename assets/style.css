@@ -129,7 +129,7 @@ th, td {
     color: #343a40;
   }
  
- #tia_image {
+ #katrin {
     height: 550px;
     width: 50%;
     float: right;
@@ -418,6 +418,7 @@ height: 100%;
         text-align: center;
         padding: 50px 50px 10px 0;
         margin-bottom: -10%;
+        margin-top: -10px;
       }
 
       .right_side  { 
