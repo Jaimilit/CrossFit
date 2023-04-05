@@ -18,7 +18,17 @@ The second section is an explanation of an important concept to understand - WOD
 The third section is a list of benefits that one will aquire if he/she joins the CrossFit community. Again, another basic movement for the image to demonstrate exerceises that will be part of your normal workout.
 I end with "Want to Learn More" hoping that the user will be intrigued and want to learn more and therefore click the links at the bottom of the page and my other pages to want to learn more.
 I specifically have chosen all female atheletes here as I want to promote more involement of female athletes in general. This is due to most of media coverage in sports and of athletes in general being male dominated. I want women to know that this sport is for them too. They don't need to think that it's too tough - that it is for all. It is also for all levels of fitness as anyone can do CrossFit and scale the workouts if necessary.
+The footer, which is the same on all pages, is taken from the Love Running Project. It includes link to social media sites and allows easy naviagation for the user, as all links open in a new tab. The footer encouragers the user to find out more about CrossFit.
 
-Terms & WODs page
 
-I start with a table of terms to know on the left. I feel that it is important to understand some terms because if a person will join a CrossFit class, he/she will not feel so lost if they don't understand the terminology. The terms provide some basic definitons that a person will experience in any CrossFit class. On the right, I again provide an image of Katrin Davíðsdóttir
+Terms & WODs Page
+
+I start with a table of terms to know on the left. I feel that it is important to understand some terms because if a person will join a CrossFit class, he/she will not feel so lost if they don't understand the terminology. The terms provide some basic definitons that a person will experience in any CrossFit class. On the right, I provide an image of Tia Toomey, who has won the CrossFit Games 6 times.
+
+Next I provide some famous WODs as examples of what exercises one is likely to experience in a CrossFit class. I got the motivation for this from the Love Running Project, in which they provided times and running locations. However, here I have provided famous WODs instead to give the user a sense of some of the WODs they will encounter.
+
+Contact Us Page
+This page provides the user a form in which he/she/they can contact us if wanting more information about CrossFit. It also uses a radio button to ask the user why they are interested in CrossFit, so that we can provide information accordingly. It asks to provide first name, last name, and email address. 
+
+Testing
+
