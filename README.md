@@ -2,7 +2,7 @@
 
 ## DESIGN
 
-This project was created to provide information on what CrossFit is and to provide sample workouts - WODs - to gain interest. The audience for this project is anyone who want more information on what CrossFit is and/or who is wanting to be more healthy and fit in general. However, more specifically, I am targeting women by using many images of women. By providing sample WODs and terms to know, someone can go into any CrossFit class and already have some background knowledge on what to expect.
+This project was created to provide information on what CrossFit is and to provide sample workouts - WODs - to gain interest. The audience for this project is anyone who wants more information on what CrossFit is and/or who is wanting to be more healthy and fit in general. However, more specifically, I am targeting women by using many images of women. By providing sample WODs and terms to know, someone can go into any CrossFit class and already have some background knowledge on what to expect.
 
 ![responsive](assets/images/responsive.png)
 
@@ -15,7 +15,7 @@ CSS
 
 ### Colors
 
-I chose a gray theme chosen from the color palette on coolors. I wanted to keep it simple and wanted the images to pop more. I wanted the images and the text to pop, so I kept a simple, light gray background. For the header and the footer, I used a dark gray to contrast the background. I used white text in the logo to make it pop more.
+I chose a gray theme chosen from the color palette on coolors. I wanted to keep it simple and wanted the images and the text to pop, so I kept a simple, light gray background. For the header and the footer, I used a dark gray to contrast the background. I used white text in the logo to make it pop more, in keeping with the theme.
 
 ![colors](assets/images/colors.png)
 
@@ -39,7 +39,7 @@ The second section is an explanation of an important concept to understand - WOD
 
 ![wod_section](assets/images/wod_section.png)
 
-The third section is a list of benefits that one will aquire if he/she/they joins the CrossFit community. Again, another basic movement for the image is to demonstrate exerceises that will be part of your normal workout routine.
+The third section is a list of benefits that one will aquire if he/she/they joins the CrossFit community. Again, another basic movement for the image is to demonstrate exerceises that will be part of your normal workout routine, should you want to join a class.
 
 ![benefits_section](assets/images/benefits.png)
 
@@ -73,7 +73,7 @@ This page provides the user a form in which he/she/they can contact us if wantin
 
 ## Thank You Page
 
-This page was created with the intent of the user knowing that their information successfully went through and to know to expect a response soon.
+This page was created with the intent of the user knowing that their information successfully went through and thank them for contacting us.
 
 ![thanks](assets/images/thanks.png)
 
