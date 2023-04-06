@@ -30,30 +30,30 @@ body {
 }
 
 #menu li {
-   margin-right: 30px;
-   float: right;
-   line-height: 50px;
-   list-style-type: none;
+    margin-right: 30px;
+    float: right;
+    line-height: 50px;
+    list-style-type: none;
 }
 
 #menu a {
-   text-decoration: none;
-   color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 #menu a:hover {
-  border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /* Index Page 3 sections */
 
 .definition {
-  margin-left: 20px;
+    margin-left: 20px;
 
  }
 
- .wod, .benefits {
-  clear: both;  
+.wod, .benefits {
+    clear: both;  
  }
 
 .img_left {
@@ -63,18 +63,18 @@ body {
 }
 
 .img_right {
-  height: 100%;
+    height: 100%;
     width: 50%;
     float: right;
 }
 
 .img_right_side {
-  clear: both;
-  height: 100%;
-  width: 50%;
-  margin: 0;
-  padding: 0;
-  float: right;
+    clear: both;
+    height: 100%;
+    width: 50%;
+    margin: 0;
+    padding: 0;
+    float: right;
 }
 
 .left_side {
@@ -88,13 +88,13 @@ body {
 }
 
 .right_side {
-  width: 45%;
-  text-align: center;
-  float: right;
-  margin-right: 50px;
-  margin-top: 200px;
-  margin-bottom: 5%;
-  font-size: 20px;
+    width: 45%;
+    text-align: center;
+    float: right;
+    margin-right: 50px;
+    margin-top: 200px;
+    margin-bottom: 5%;
+    font-size: 20px;
 }
 
 .intrigue  {
@@ -130,15 +130,14 @@ th, td {
   }
  
  #katrin {
-    height: 550px;
+    height: 500px;
     width: 50%;
     float: right;
    }
 
    /* Sample WODS section - From Love Running Project - Adjusted as Needed */
   
-
-  #wods {
+#wods {
     background-image: url(../assets/images/kettlebell_panorama.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -166,7 +165,7 @@ th, td {
     padding-top: 20px;
   }
 
-  div p {
+div p {
     padding-top: 20px;
     padding-bottom: 10px;
 }
@@ -174,17 +173,17 @@ th, td {
 /* Contact Us Page */
 
 #contact_title {   
-  padding-top: 50px;
-  text-align: center;
-  font-size: 200%;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 200%;
 }
 
 #contact {
-  text-align: center;
+    text-align: center;
 }
 
 .form_section { 
-   height: 850px; 
+    height: 850px; 
   }
 
 .contact_form {
@@ -200,64 +199,63 @@ th, td {
 }
 
 #send {
-   color: #3a3a3a;
-   padding: 5px;
-   border-radius: 5px;
+    color: #3a3a3a;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 .image_form { 
-      padding-top: 70px;
-      margin-right: 60px;
-      height: 75%;
-      width: 50%;
-      float: right;
-   }
+    padding-top: 70px;
+    margin-right: 60px;
+    height: 75%;
+    width: 50%;
+    float: right;
+}
 
-   /* Footer Info - From Love Running Project - Adjusted as Needed  */
+/* Footer Info - From Love Running Project - Adjusted as Needed  */
 
-   footer {
-  height: 100px;
- }
+footer {
+    height: 100px;
+}
 
- .social-networks {
-  text-align: center;
-  position: relative;
+.social-networks {
+    text-align: center;
+   position: relative;
 }
 
 .social-networks > li {
-  display: inline;
+    display: inline;
 }
 
 .social-networks i {
-  font-size: 150%;
-  margin: 0;
-  padding: 7%;
-  color: #343a40;
+    font-size: 150%;
+    margin: 0;
+    padding: 7%;
+    color: #343a40;
 }
 
    /* Change for tablets - max 1200px */
+ @media screen and (min-width: 920px) and (max-width: 1200px) { 
 
-   @media screen and (min-width: 920px) and (max-width: 1200px) { 
+.right_side  {
+    margin: 0 auto;
+    height: 90%;
+    width: 90%;
+    padding: 2%;
+}
 
-    .right_side  {
-      margin: 0 auto;
-      height: 90%;
-      width: 90%;
-      padding: 2%;
-    }
-
-    .left_side {
-      margin: 0 auto;
-      height: 90%;
-      width: 90%;
-      padding: 2%;
-    }
+.left_side {
+    margin: 0 auto;
+    height: 90%;
+    width: 90%;
+    padding: 2%;
+}
 
 
-  .img_right {
-      width: 80%;
-      height: 80%;
-      padding: 0 10%;
+.img_right {
+    width: 80%;
+    height: 80%;
+    padding: 0 10%;
   }
 
   .img_left {
@@ -267,230 +265,229 @@ th, td {
   }
   }
 
-  .img_right_side {
+.img_right_side {
     width: 80%;
     height: 80%;
     padding: 0 10%; 
 }
 
 .intrigue {
-  padding: 50px;
+    padding: 50px;
 }
 
 #katrin { 
-width: 50%;
-float: none;
-height: 100%;
+    width: 50%;
+    float: none;
+    height: 100%;
 }
 
-      /* Change for phones and smaller devices */
+/* Change for phones and smaller devices */
 
-      @media screen and (min-width: 480px) and (max-width: 920px) {
+@media screen and (min-width: 480px) and (max-width: 920px) {
       
-        /* Index Page */
+/* Index Page */
 
-        #menu {
-          clear: both;
-          float: right;
-          margin-right: 5px;
-          margin-bottom: 10px;
-          line-height: 10px;
-          font-size: x-small;
-        }
+#menu {
+    clear: both;
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    line-height: 10px;
+    font-size: x-small;
+}
 
-        #menu li {
-          margin-right: 20px;
-          float: right;
-          line-height: 50px;
-          padding: 1px;
-        }
+#menu li {
+    margin-right: 20px;
+    float: right;
+    line-height: 50px;
+    padding: 1px;
+ }
 
-        .right_side  {
-          height: 90%;
-          width: 90%;
-        }
+.right_side  {
+    height: 90%;
+    width: 90%;
+    margin-top: 2%;
+}
 
-        .left_side {
-          height: 90%;
-          width: 90%;
-          padding: 2% 5% 0 5%;
-        }
+.left_side {
+    height: 90%;
+    width: 90%;
+    padding: 0 5% 0 5%;
+    margin-top: 2%;
+}
         
-        .img_right, .img_left, .img_right_side {
-          height: 80%;    
-          width: 100vw;
-          }
+.img_right, .img_left, .img_right_side {
+     height: 80%;    
+     width: 100vw;
+}
 
-       /* Terms & WODs Page */
+/* Terms & WODs Page */
 
-        #terms {
-          margin: 20px;
-          text-align: center;
-          font-size: 20px;
-        }
+#terms {
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+  }
 
-       #table {
-        text-align: center;
-        float: left;
-        height: 50%;
-        padding: 10px;
-        font-size: 80%;   
-       }
+#table {
+    text-align: center;
+    float: left;
+    height: 50%;
+    padding: 10px;
+    font-size: 80%;   
+}
      
-       #katrin {
-        width: 50%;
-        float: none;
-        height: 100%;
-        padding-top: 10%;
-       }
+#katrin {
+    width: 50%;
+    float: none;
+    height: 100%;
+    padding-top: 10%;
+}
 
-       #famous_wods {
-        margin-top: 5%;
-       }
+#famous_wods {
+    margin-top: 5%;
+}
 
-       #wods > div {
-        width: 100%;
-        clear: both;
-        height: 100%;
-        padding: 0;
-        font-size: 80%;
-     }
+#wods > div {
+    width: 100%;
+    clear: both;
+    height: 100%;
+    padding: 0;
+    font-size: 80%;
+}
 
-     /* Contact Us Page */
+/* Contact Us Page */
     
-       #contact_title {
-        font-size: 80%;
-      text-align: center;
-      margin: 20px;
-       }
+#contact_title {
+    font-size: 80%;
+    text-align: center;
+    margin: 20px;
+}
       
-      .form_section {
-        height: 300px;
-      width: 100%;
-      text-align: center;
-      font-size: 17px;
-      margin: 0 20% 50px 20%;
-      padding: 30px;
-      }
+.form_section {
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    font-size: 17px;
+    margin: 0 20% 50px 20%;
+    padding: 30px;
+}
 
-      .contact_form {
-        margin: 2%;
-        padding: 30px;
-      }     
+.contact_form {
+    margin: 2%;
+    padding: 30px;
+}     
 
-       .image_form {
-        display: none;
-       }
-    }
+.image_form {
+    display: none;
+}
+}
 
-    /* Change for devices 0 - 480px */
+ /* Change for devices 0 - 480px */
 
-    @media screen and (min-width: 0px) and (max-width: 480px) {
+ @media screen and (min-width: 0px) and (max-width: 480px) {
 
 /* Index Page */
 
-      #menu {
-        clear: both;
-        float: right;
-        margin-right: 5px;
-        margin-bottom: 10px;
-        line-height: 10px;
-        font-size: x-small;
-      }
+#menu {
+    clear: both;
+    float: right;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    line-height: 10px;
+    font-size: x-small;
+}
 
-      #menu li {
-        margin-right: 20px;
-        float: right;
-        line-height: 50px;
-        padding: 1px;
-      }
-
-
-    .img_right, .img_left {
-      height: 100%;    
-      width: 100vw;
-        }
-
-      .left_side {
-        height: 350px;
-        width: 95%;
-        text-align: center;
-        padding: 50px 50px 10px 0;
-        margin-bottom: -10%;
-        margin-top: -10px;
-      }
-
-      .right_side  { 
-      height: 300px;
-      width: 80%;
-      text-align: center;
-      margin-bottom: -10%;
-      margin: 0 0 -30% 30%;
-      padding: 50px 50px 0 50px;
-    }  
-
-      /* Terms & WODs Page */
-
-      #terms {
-        font-size: 90%;
-        text-align: center;
-        padding-top: 75px;
-      }
-
-     table {
-      margin: 0 auto;
-      text-align: center;
-      font-size: 80%; 
-      float: none;
-      width: 100vw;
-     }
-
-     #katrin {
-      width: 100%;
-      height: 95%;
-      float: none;
-    }
-  
-      #famous_wods {
-       margin-top: 5%;
-    }
-
-    #wods > div {
-      width: 100%;
-      clear: both;
-      height: 100%;
-      padding: 0;
-      font-size: 80%;
+#menu li {
+    margin-right: 20px;
+    float: right;
+    line-height: 50px;
+    padding: 1px;
    }
 
-    /* Contact Us Page */
+.img_right, .img_left {
+    height: 100%;    
+    width: 100vw;
+  }
 
-    #contact_title {
-      font-size: 80%;
-      text-align: center;
-      margin: 20px;
-    }
+.left_side {
+    height: 350px;
+    width: 95%;
+    text-align: center;
+    padding: 50px 50px 10px 0;
+    margin-bottom: -10%;
+    margin-top: -10px;
+}
 
-    .form_section {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin-bottom: -30%;
-        }
+.right_side  { 
+    height: 300px;
+    width: 80%;
+    text-align: center;
+    margin: 0 0 -30% 30%;
+    padding: 50px 50px 0 50px;
+}  
+
+/* Terms & WODs Page */
+
+#terms {
+    font-size: 90%;
+    text-align: center;
+    padding-top: 75px;
+}
+
+table {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 80%; 
+    float: none;
+    width: 100vw;
+  }
+
+#katrin {
+    width: 100%;
+    height: 95%;
+    float: none;
+}
+  
+#famous_wods {
+      margin-top: 5%;
+}
+
+#wods > div {
+    width: 100%;
+    clear: both;
+    height: 100%;
+    padding: 0;
+    font-size: 80%;
+  }
+
+   /* Contact Us Page */
+
+#contact_title {
+    font-size: 80%;
+    text-align: center;
+    margin: 20px;
+  }
+
+.form_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-bottom: -30%;
+}
         
 
-    .contact_form {
-      margin: 0 auto;
-      margin-top: -80%;
-      margin-bottom: -40%;
-       width: 100%;
-    }
+.contact_form {
+    margin: 0 auto;
+    margin-top: -80%;
+    margin-bottom: -40%;
+    width: 100%;
+}
 
-    .image_form {
-      display: none;
-     }
-
-    }
+.image_form {
+    display: none;
+}
+}
 
   
