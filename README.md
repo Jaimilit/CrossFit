@@ -29,6 +29,8 @@ The Header - The header is a light color that contrasts the dark background colo
 
 The landing page is broken up into three sections. All sections are meant to be short, simple concepts that are essential in CrossFit. The first section provides a defintion of what CrossFit is so that the user can understand what elements are include in CrossFit. The image to the right, is of Katrin Davíðsdóttir, who has been a winner twice of the CrossFit Games. 
 
+![Definition](../Portfolio-One/assets/images/definition.png)
+
 The second section is an explanation of an important concept to understand - WOD. It is essential in CrossFit to understand what this means, as this is the basis of all workouts that one will excute. The image here is of a women doing a back squat to help show excersises that are commonly part of WODs.
 
 The third section is a list of benefits that one will aquire if he/she/they joins the CrossFit community. Again, another basic movement for the image is to demonstrate exerceises that will be part of your normal workout routine.
