@@ -2,7 +2,7 @@
 
 ## DESIGN
 
-This project was created to provide information on what CrossFit is and to provide sample workouts - WODs - to gain interest. The audience for this project is anyone who is wanting more information on what CrossFit is and/or who is wanting to be more healthy and fit in general. However, more specifially, I am targeting women by using many images of women. By providing sample WODs and terms to know, someone can go into any CrossFit class and already have some background knowledge on what to expect.
+This project was created to provide information on what CrossFit is and to provide sample workouts - WODs - to gain interest. The audience for this project is anyone who want more information on what CrossFit is and/or who is wanting to be more healthy and fit in general. However, more specifically, I am targeting women by using many images of women. By providing sample WODs and terms to know, someone can go into any CrossFit class and already have some background knowledge on what to expect.
 
 ![responsive](assets/images/responsive.png)
 
@@ -35,7 +35,7 @@ The landing page is broken up into three sections. All sections are meant to be 
 
 ![Definition](assets/images/definition.png)
 
-The second section is an explanation of an important concept to understand - WOD. It is essential in CrossFit to understand what this means, as this is the basis of all workouts that one will excute. The image here is of a women doing a back squat to help show excersises that are commonly part of WODs.
+The second section is an explanation of an important concept to understand - WOD. It is essential in CrossFit to understand what this means, as this is the basis of all workouts that one will execute. The image here is of a women doing a back squat to help show excersises that are commonly part of WODs.
 
 ![wod_section](assets/images/wod_section.png)
 
@@ -49,7 +49,7 @@ I end with "Want to Learn More" hoping that the user will be intrigued and want 
 
 I specifically have chosen all female atheletes here as I want to promote more involement of female athletes in general. This is due to most of the media coverage in sports and of athletes in general being male dominated. I want women to know that this sport is for them too. They don't need to think that it's too tough - that it is for everyone. It is also for all levels of fitness as anyone can do CrossFit and scale the workouts if necessary.
 
-The footer, which is the same on all pages, is taken from the Love Running Project. It includes link to social media sites and allows easy naviagation for the user, as all links open in a new tab. The footer encouragers the user to find out more about CrossFit.
+The footer, which is the same on all pages, is taken from the Love Running Project. It includes link to social media sites and allows easy naviagation for the user, as all links open in a new tab. The footer encourages the user to find out more about CrossFit.
 
 ![footer](assets/images/footer.png)
 
@@ -110,7 +110,7 @@ The live link can be found here - (What is CrossFit?) [ https://jaimilit.github.
 Text for the index page is taken from Shape at https://www.shape.com/what-is-crossfit-training-7096578
 Benefits was also taken from Shape at https://www.shape.com/fitness/tips/health-fitness-benefits-crossfit
 The terms for the table were taken from this website https://www.crossfitsalemoor.com/crossfit/crossfit-terminology/
-Famous wods were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/
+Famous WODs were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/
 https://www.getsweatgo.com/workout/guides/best-crossfit-workouts-17
 The icons in the footer were taken from Font Awesome
 Footer and Famous WODs sections were taken from Love Running Project
@@ -128,7 +128,7 @@ Thank you - https://www.pexels.com/photo/gold-thank-you-text-with-gold-glitters-
 
 
 Other images:
-kettlebell for famous wods section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
+kettlebell for Famous WODs section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
 First image for definiton was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
 For the image on the terms page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
 Women on the wods page is taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
