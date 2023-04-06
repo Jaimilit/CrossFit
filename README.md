@@ -18,10 +18,12 @@ I chose a gray theme chosen from the color palette on coolors. I wanted to keep 
 
 Navigation Bar
 
-Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow easy navigation.
+Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow easy navigation. The dark color contrasts with the light color of the background to make it easy to read. 
 This section allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. I also change the navigation menu for smaller screens so that it is easy to use. 
 
 The Landing Page
+
+The Header - The header is a light color that contrasts the dark background color to make it easy to read. It explains the purpose of the website. It asks a question - "What is CrossFit?" which will be explained throughout the website. I use a font that is easy to read.
 
 The landing page is broken up into three sections. All sections are meant to be short, simple concepts that are essential in CrossFit. The first section provides a defintion of what CrossFit is so that the user can understand what elements are include in CrossFit. The image to the right, is of Katrin Davíðsdóttir, who has been a winner twice of the CrossFit Games. 
 
@@ -40,7 +42,9 @@ Terms & WODs Page
 
 I start with a table of terms to know on the left. I feel that it is important to understand some terms because if a person will join a CrossFit class, he/she/they will not feel so lost if they don't understand the terminology. The terms provide some basic explanations that a person will experience in any CrossFit class. On the right, I provide an image of Katrin Davíðsdóttir during one of her competitions as motivation for the audience.
 
-Next I provide some famous WODs as examples of what workouts one is likely to experience in a CrossFit class. I got the motivation for this from the Love Running Project, in which they provided times and running locations. However, here I have provided famous WODs instead to give the user a sense of some of the WODs they will encounter. Again, I use a lot of female names/workouts to motivate women to want to join. The image in the background is of a kettlebell and will often be used during CrossFit classes. 
+
+Next I provide some famous WODs as examples of what workouts one is likely to experience in a CrossFit class. I got the motivation for this from the Love Running Project, in which they provided times and running locations. However, here I have provided famous WODs instead to give the user a sense of some of the WODs they will encounter. Again, I use a lot of female names/workouts to motivate women to want to join. The image in the background is of a kettlebell and will often be used during CrossFit classes. Additionally, I use fontawesome icons to show strength for the workouts.
+
 
 Contact Us Page
 This page provides the user a form in which he/she/they can contact us if wanting more information about CrossFit. It also uses a radio button to ask the user why he/she/they are interested in CrossFit, so that we can provide information accordingly. It asks to provide first name, last name, and email address. I also have included an image of a barbell, which is a dark image to keep with the theme.
@@ -51,6 +55,10 @@ This page was created with the intent of the user knowing that their information
 
 Testing
 
+I have tested that my projects works on various browsers - Safari, Chrome, and FireFox.
+I also have confirmed that my project is responsive by using the devtools toolbar.
+I confirm that all sections, heading, footer, and navigation are readable and easy to understand.
+I confirm that my form will only accept required information and that it works appropiately. 
 
 
 Validator Testing
@@ -62,10 +70,13 @@ No errors were found when passing through the official (Jigsaw) validator
 
 Unfixed Bugs
 
+No unfixed bugs
+
 
 Deployment
 
 For this project I used GitHub
+
 
 The live link can be found here - https://jaimilit.github.io/Portfolio-One/contact_us.html
 
