@@ -16,11 +16,11 @@ body {
 /* Header and Navigation */
 
 #logo {
-   text-align: center;
-   color: whitesmoke;
-   font-size: 300%;
-   letter-spacing: 5px;
-   background-color: #66666e;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 300%;
+    letter-spacing: 5px;
+    background-color: #66666e;
 }
 
 #menu {
@@ -49,7 +49,6 @@ body {
 
 .definition {
     margin-left: 20px;
-
  }
 
 .wod, .benefits {
@@ -127,15 +126,15 @@ th, td {
     border: 1px solid #343a40;
     padding: 10px;
     color: #343a40;
-  }
+}
  
- #katrin {
+#katrin {
     height: 500px;
     width: 50%;
     float: right;
-   }
+}
 
-   /* Sample WODS section - From Love Running Project - Adjusted as Needed */
+/* Sample WODS section - From Love Running Project - Adjusted as Needed */
   
 #wods {
     background-image: url(../assets/images/kettlebell_panorama.jpeg);
@@ -144,7 +143,7 @@ th, td {
     background-position: center;
     width: 100%;
     overflow: hidden;
- }
+}
 
 #wods div {
     color: #fafafa;
@@ -157,13 +156,13 @@ th, td {
     box-sizing: border-box;
     padding-top: 20px;
     padding-bottom: 20px;
- }
+}
 
- #famous_wods {
+#famous_wods {
     text-align: center;
     font-size: 200%;
     padding-top: 20px;
-  }
+}
 
 div p {
     padding-top: 20px;
@@ -184,7 +183,7 @@ div p {
 
 .form_section { 
     height: 850px; 
-  }
+}
 
 .contact_form {
     font-size: 20px;
@@ -226,7 +225,6 @@ div p {
     margin-bottom: -30%;
 }
 
-
 /* Footer Info - From Love Running Project - Adjusted as Needed  */
 
 footer {
@@ -249,7 +247,8 @@ footer {
     color: #343a40;
 }
 
-   /* Change for tablets - max 1200px */
+  /* Change for tablets - max 1200px */
+
  @media screen and (min-width: 920px) and (max-width: 1200px) { 
 
 .right_side  {
@@ -266,19 +265,17 @@ footer {
     padding: 2%;
 }
 
-
 .img_right {
     width: 80%;
     height: 80%;
     padding: 0 10%;
-  }
+}
 
-  .img_left {
+.img_left {
     width: 80%;
     height: 80%;
     padding: 0 10%; 
-  }
-  }
+}
 
 .img_right_side {
     width: 80%;
@@ -294,6 +291,7 @@ footer {
     width: 50%;
     float: none;
     height: 100%;
+}
 }
 
 /* Change for phones and smaller devices */
@@ -316,7 +314,7 @@ footer {
     float: right;
     line-height: 50px;
     padding: 1px;
- }
+}
 
 .right_side  {
     height: 90%;
@@ -332,8 +330,8 @@ footer {
 }
         
 .img_right, .img_left, .img_right_side {
-     height: 80%;    
-     width: 100vw;
+    height: 80%;    
+    width: 100vw;
 }
 
 /* Terms & WODs Page */
@@ -342,7 +340,7 @@ footer {
     margin: 20px;
     text-align: center;
     font-size: 20px;
-  }
+}
 
 #table {
     text-align: center;
@@ -357,6 +355,10 @@ footer {
     float: none;
     height: 100%;
     padding-top: 10%;
+}
+
+.intrigue {
+  padding-top: 5%;
 }
 
 #famous_wods {
@@ -396,6 +398,7 @@ footer {
 .image_form {
     display: none;
 }
+
 .image_thanks {
   background-color: #3a3a3a;
   height: 50%;
@@ -407,6 +410,7 @@ footer {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
+  margin-top: 2%;
   margin-bottom: 30%;
 }
 }
@@ -431,12 +435,12 @@ footer {
     float: right;
     line-height: 50px;
     padding: 1px;
-   }
+}
 
 .img_right, .img_left {
     height: 100%;    
     width: 100vw;
-  }
+}
 
 .left_side {
     height: 350px;
@@ -455,6 +459,10 @@ footer {
     padding: 50px 50px 0 50px;
 }  
 
+.intrigue {
+  padding-top: 3%;
+}
+
 /* Terms & WODs Page */
 
 #terms {
@@ -469,7 +477,7 @@ table {
     font-size: 80%; 
     float: none;
     width: 100vw;
-  }
+}
 
 #katrin {
     width: 100%;
@@ -487,7 +495,7 @@ table {
     height: 100%;
     padding: 0;
     font-size: 80%;
-  }
+}
 
    /* Contact Us Page */
 
@@ -495,7 +503,7 @@ table {
     font-size: 80%;
     text-align: center;
     margin: 20px;
-  }
+}
 
 .form_section {
     display: flex;
@@ -527,9 +535,8 @@ table {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  margin: 0;
+  margin: 0 0 -5% 0;
 }
-
 }
 
   
