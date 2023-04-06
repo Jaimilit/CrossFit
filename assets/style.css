@@ -318,7 +318,7 @@ height: 100%;
         
         .img_right, .img_left, .img_right_side {
           height: 80%;    
-          width: 80%;
+          width: 100vw;
           }
 
        /* Terms & WODs Page */
@@ -408,8 +408,7 @@ height: 100%;
 
     .img_right, .img_left {
       height: 100%;    
-      width: 100%;
-      padding: 0;
+      width: 100vw;
         }
 
       .left_side {

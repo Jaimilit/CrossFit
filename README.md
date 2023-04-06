@@ -79,7 +79,7 @@ No unfixed bugs
 For this project I used GitHub
 
 
-The live link can be found here - (What is CrossFit?) [https://jaimilit.github.io/Portfolio-One/contact_us.html]
+The live link can be found here - (What is CrossFit?) [ https://jaimilit.github.io/Portfolio-One/]
 
 ## Credits
 
@@ -90,6 +90,9 @@ The terms for the table were taken from this website https://www.crossfitsalemoo
 Famous wods were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/
 https://www.getsweatgo.com/workout/guides/best-crossfit-workouts-17
 The icons in the footer were taken from Font Awesome
+Footer and Famous WODs sections were taken from Love Running Project
+Navigation menu also inspired by Love Running Project
+
 
 ### Media
 
