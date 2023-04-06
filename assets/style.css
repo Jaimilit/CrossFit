@@ -212,6 +212,21 @@ div p {
     float: right;
 }
 
+.image_thanks {
+  margin: 0 auto;
+    font-size: 20px;
+    background-color: #3a3a3a;
+    height: 80%;
+    width: 80vw;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-bottom: -30%;
+}
+
+
 /* Footer Info - From Love Running Project - Adjusted as Needed  */
 
 footer {
@@ -381,6 +396,19 @@ footer {
 .image_form {
     display: none;
 }
+.image_thanks {
+  background-color: #3a3a3a;
+  height: 50%;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-bottom: 30%;
+}
 }
 
  /* Change for devices 0 - 480px */
@@ -477,7 +505,6 @@ table {
     margin-bottom: -30%;
 }
         
-
 .contact_form {
     margin: 0 auto;
     margin-top: -80%;
@@ -488,6 +515,21 @@ table {
 .image_form {
     display: none;
 }
+
+.image_thanks {
+  background-color: #3a3a3a;
+  height: 50%;
+  width: 50vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+}
+
 }
 
   
