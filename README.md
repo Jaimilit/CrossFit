@@ -4,6 +4,8 @@
 
 This project was created to provide information on what CrossFit is and to provide sample workouts - WODs - to gain interest. The audience for this project is anyone who is wanting more information on what CrossFit is and/or who is wanting to be more healthy and fit in general. However, more specifially, I am targeting women by using many images of women. By providing sample WODs and terms to know, someone can go into any CrossFit class and already have some background knowledge on what to expect.
 
+![responsive](assets/images/responsive.png)
+
 ## FEATURES
 
 ### Languages Used
@@ -14,6 +16,8 @@ CSS
 ### Colors
 
 I chose a gray theme chosen from the color palette on coolors. I wanted to keep it simple and wanted the images to pop more. I wanted the images and the text to pop, so I kept a simple, light gray background. For the header and the footer, I used a dark gray to contrast the background. I used white text in the logo to make it pop more.
+
+![colors](assets/images/colors.png)
 
 
 ## Navigation Bar
