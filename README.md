@@ -79,7 +79,7 @@ No unfixed bugs
 For this project I used GitHub
 
 
-The live link can be found here - https://jaimilit.github.io/Portfolio-One/contact_us.html
+The live link can be found here - (What is CrossFit?) [https://jaimilit.github.io/Portfolio-One/contact_us.html]
 
 ## Credits
 
