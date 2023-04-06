@@ -21,6 +21,8 @@ I chose a gray theme chosen from the color palette on coolors. I wanted to keep 
 Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow easy navigation. The dark color contrasts with the light color of the background to make it easy to read. 
 This section allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. I also change the navigation menu for smaller screens so that it is easy to use. 
 
+![Navigation Bar](../Portfolio-One/assets/images/header.png)
+
 ## The Landing Page
 
 The Header - The header is a light color that contrasts the dark background color to make it easy to read. It explains the purpose of the website. It asks a question - "What is CrossFit?" which will be explained throughout the website. I use a font that is easy to read.
