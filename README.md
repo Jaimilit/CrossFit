@@ -88,7 +88,7 @@ I confirm that my form will only accept required information and that it works a
 
 * HTML
 No errors were returned when passing through the official W3C validator
-*CSS
+* CSS
 No errors were returned when passing through the official Jigsaw validator
 * Accessibility
 I confirm easy user accessibility by running it through lighthouse in dev tools
