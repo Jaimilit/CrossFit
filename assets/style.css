@@ -527,12 +527,12 @@ table {
 
 .image_thanks {
   background-color: #3a3a3a;
-  height: 50%;
-  width: 50vw;
+  height: 25%;
+  width: 50%;
   display: flex;
   justify-content: center;
-  align-items: center;
   position: absolute;
+  align-items: center;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
