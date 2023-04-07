@@ -22,20 +22,19 @@ I chose a gray theme chosen from the color palette on coolors. I wanted to keep 
 
 ## Navigation Bar
 
-Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow easy navigation. The dark color contrasts with the light color of the background to make it easy to read. 
-This section allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. I also change the navigation menu for smaller screens so that it is easy to use. 
+Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow for easy navigation. The dark color contrasts with the light color of the background to make it easy to read. This section allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. I also change the navigation menu for smaller screens so that it is easy to use. 
 
 ![Navigation Bar](assets/images/header.png)
 
 ## The Landing Page
 
-The Header - The header is a light color that contrasts the dark background color to make it easy to read. It explains the purpose of the website. It asks a question - "What is CrossFit?" which will be explained throughout the website. I use a font that is easy to read.
+The Header - The header is a light color that contrasts the dark background color to make it easy to read. It explains the purpose of the website. It asks a question - "What is CrossFit?" which will be explained throughout the website. In addition, I use a font that is easy to read.
 
-The landing page is broken up into three sections. All sections are meant to be short, simple concepts that are essential in CrossFit. The first section provides a defintion of what CrossFit is so that the user can understand what elements are include in CrossFit. The image to the right, is of Katrin Davíðsdóttir, who has been a winner twice of the CrossFit Games. 
+The landing page is broken up into three sections. All sections are meant to be short, simple concepts that are essential in CrossFit. The first section provides a defintion of what CrossFit is so that the user can understand what elements are included in CrossFit. The image to the right, is of Katrin Davíðsdóttir, who has been a winner twice of the CrossFit Games. 
 
-![Definition](assets/images/definition.png)
+![defintion](assets/images/defintion.png.png)
 
-The second section is an explanation of an important concept to understand - WOD. It is essential in CrossFit to understand what this means, as this is the basis of all workouts that one will execute. The image here is of a women doing a back squat to help show excersises that are commonly part of WODs.
+The second section is an explanation of an important concept to understand - WOD. It is essential in CrossFit to understand what this means, as this is the basis of all workouts that one will execute. The image here is of a woman doing a back squat to help show excersises that are commonly part of WODs.
 
 ![wod_section](assets/images/wod_section.png)
 
@@ -47,7 +46,7 @@ I end with "Want to Learn More" hoping that the user will be intrigued and want 
 
 ![learn_more](assets/images/learn_more.png)
 
-I specifically have chosen all female atheletes here as I want to promote more involement of female athletes in general. This is due to most of the media coverage in sports and of athletes in general being male dominated. I want women to know that this sport is for them too. They don't need to think that it's too tough - that it is for everyone. It is also for all levels of fitness as anyone can do CrossFit and scale the workouts if necessary.
+I specifically have chosen all female atheletes here as I want to promote more involement of female atheletes in general. This is due to most of the media coverage in sports and of atheletes in general being male dominated. I want women to know that this sport is for them too. They don't need to think that it's too tough - that it is for everyone. It is also for all levels of fitness as anyone can do CrossFit and scale the workouts if necessary.
 
 The footer, which is the same on all pages, is taken from the Love Running Project. It includes link to social media sites and allows easy naviagation for the user, as all links open in a new tab. The footer encourages the user to find out more about CrossFit.
 
@@ -60,7 +59,7 @@ I start with a table of terms to know on the left. I feel that it is important t
 
 ![terms](assets/images/terms.png)
 
-Next I provide some famous WODs as examples of what workouts one is likely to experience in a CrossFit class. I got the motivation for this from the Love Running Project, in which they provided times and running locations. However, here I have provided famous WODs instead to give the user a sense of some of the WODs they will encounter. Again, I use a lot of female names/workouts to motivate women to want to join. The image in the background is of a kettlebell and will often be used during CrossFit classes. Additionally, I use fontawesome icons to show strength for the workouts.
+Next I provide some Famous WODs as examples of what workouts one is likely to experience in a CrossFit class. I got the motivation for this from the Love Running Project, in which they provided times and running locations. However, here I have provided Famous WODs instead to give the user a sense of some of the WODs they will encounter. Again, I use a lot of female names/workouts to motivate women to want to join. The image in the background is of a kettlebell and will often be used during CrossFit classes. Additionally, I use fontawesome icons to show strength for the workouts.
 
 ![famous_wods](assets/images/famous_wods.png)
 
@@ -86,10 +85,13 @@ I confirm that my form will only accept required information and that it works a
 
 
 ## Validator Testing
+
 HTML
-No errors were returned when passing through the official W3C validator
+* No errors were returned when passing through the official W3C validator
 CSS
-No errors were found when passing through the official (Jigsaw) validator
+* No errors were returned when passing through the official Jigsaw validator
+Accessibility
+* I confirm easy user accessibility by running it through lighthouse in dev tools
 
 
 ## Unfixed Bugs
@@ -136,8 +138,3 @@ The Kettlebell for Famous WODs section - https://www.dreamstime.com/kettlebell-c
 First image for Definiton section was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
 For the image on the Terms and WODs page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
 the woman on the wods section was taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
-
-
-
-
-
