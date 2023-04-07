@@ -101,6 +101,9 @@ No unfixed bugs
 
 For this project I used GitHub
 
+![lighthouse](assets/images/lighthouse.png)
+![CSS](assets/images/css_validation.png)
+
 
 The live link can be found here - (What is CrossFit?) [ https://jaimilit.github.io/Portfolio-One/]
 
