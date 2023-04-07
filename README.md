@@ -96,8 +96,7 @@ Accessibility
 
 ## Unfixed Bugs
 
-No unfixed bugs
-
+In the future I would like to increase my accessibility score, as well as my performance score. I think the more I work at coding and become familiar with best practices, that these scores will become better and better.
 
 ## Deployment
 

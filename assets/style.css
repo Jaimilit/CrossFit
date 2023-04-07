@@ -49,11 +49,11 @@ body {
 
 .definition {
     margin-left: 20px;
- }
+}
 
 .wod, .benefits {
     clear: both;  
- }
+}
 
 .img_left {
     height: 100%;
@@ -116,7 +116,7 @@ body {
     width: 100%;
     padding-top: 20px;
     overflow: hidden;
- }
+}
 
 table {
     width: 50%;
@@ -234,7 +234,7 @@ footer {
 
 .social-networks {
     text-align: center;
-   position: relative;
+    position: relative;
 }
 
 .social-networks > li {
@@ -461,7 +461,7 @@ footer {
 }  
 
 .intrigue {
-  padding-top: 3%;
+    padding-top: 3%;
 }
 
 /* Terms & WODs Page */
@@ -487,7 +487,7 @@ table {
 }
   
 #famous_wods {
-      margin-top: 5%;
+    margin-top: 5%;
 }
 
 #wods > div {
@@ -498,7 +498,7 @@ table {
     font-size: 80%;
 }
 
-   /* Contact Us Page */
+/* Contact Us Page */
 
 #contact_title {
     font-size: 80%;
