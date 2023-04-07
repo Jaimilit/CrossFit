@@ -103,6 +103,7 @@ For this project I used GitHub
 
 ![lighthouse](assets/images/lighthouse.png)
 ![CSS](assets/images/css_validation.png)
+![html](assets/images/html_validation.png)
 
 
 The live link can be found here - (What is CrossFit?) [ https://jaimilit.github.io/Portfolio-One/]
@@ -111,12 +112,12 @@ The live link can be found here - (What is CrossFit?) [ https://jaimilit.github.
 
 ### Content
 Text for the index page is taken from Shape at https://www.shape.com/what-is-crossfit-training-7096578
-Benefits was also taken from Shape at https://www.shape.com/fitness/tips/health-fitness-benefits-crossfit
-The terms for the table were taken from this website https://www.crossfitsalemoor.com/crossfit/crossfit-terminology/
-Famous WODs were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/
+Text for the benefits was also taken from Shape at https://www.shape.com/fitness/tips/health-fitness-benefits-crossfit
+The terms for the table were selected from this website https://www.crossfitsalemoor.com/crossfit/crossfit-terminology/
+Famous WODs were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/ and
 https://www.getsweatgo.com/workout/guides/best-crossfit-workouts-17
-The icons in the footer were taken from Font Awesome
-Footer and Famous WODs sections were taken from Love Running Project
+The icons in the footer and the dumbell for the Famous WODs were taken from Font Awesome
+Footer and Famous WODs sections ideas were taken from Love Running Project
 Navigation menu also inspired by Love Running Project
 
 
@@ -125,16 +126,16 @@ Navigation menu also inspired by Love Running Project
 Images were taken from the following:
 
 Pexels:
-the Barbell for the contact us page - https://www.pexels.com/photo/black-barbell-685530/
-barbell for the benefits section - https://www.pexels.com/photo/woman-in-black-sportswear-lifting-a-barbell-7674497/
-Thank you - https://www.pexels.com/photo/gold-thank-you-text-with-gold-glitters-7248762/
+The barbell for the Contact Us page was taken from Pexels- https://www.pexels.com/photo/black-barbell-685530/
+The barbell for the Benefits section was taken from Pexels - https://www.pexels.com/photo/woman-in-black-sportswear-lifting-a-barbell-7674497/
+The Thank You image was also taken from Pexels - https://www.pexels.com/photo/gold-thank-you-text-with-gold-glitters-7248762/
 
 
 Other images:
-kettlebell for Famous WODs section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
-First image for definiton was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
-For the image on the terms page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
-Women on the wods page is taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
+The Kettlebell for Famous WODs section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
+First image for Definiton section was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
+For the image on the Terms and WODs page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
+the woman on the wods section was taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
 
 
 
