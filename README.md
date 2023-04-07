@@ -24,7 +24,7 @@ I chose a gray theme chosen from a color palette on coolors. I wanted to keep it
 
 Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow for easy navigation. The dark color contrasts with the light color of the background to make it easy to read. This section allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. I also change the navigation menu for smaller screens so that it is easy to use. 
 
-![Navigation Bar](assets/images/defintion.png)
+![Navigation Bar](assets/images/header.png)
 
 ## The Landing Page
 
@@ -32,7 +32,7 @@ The Header - The header is a light color that contrasts the dark background colo
 
 The landing page is broken up into three sections. All sections are meant to be short, simple concepts that are essential in CrossFit. The first section provides a defintion of what CrossFit is so that the user can understand what elements are included in CrossFit. The image to the right, is of Katrin Davíðsdóttir, who has been a winner twice of the CrossFit Games. 
 
-![defintion](assets/images/defintion.png.png)
+![defintion](assets/images/definition.png)
 
 The second section is an explanation of an important concept to understand - WOD. It is essential in CrossFit to understand what this means, as this is the basis of all workouts that one will execute. The image here is of a woman doing a back squat to help show excersises that are commonly part of WODs.
 
