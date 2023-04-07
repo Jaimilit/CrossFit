@@ -10,12 +10,12 @@ This project was created to provide information on what CrossFit is and to provi
 
 ### Languages Used
 
-HTML
-CSS
+* HTML
+* CSS
 
 ### Colors
 
-I chose a gray theme chosen from the color palette on coolors. I wanted to keep it simple and wanted the images and the text to pop, so I kept a simple, light gray background. For the header and the footer, I used a dark gray to contrast the background. I used white text in the logo to make it pop more, in keeping with the theme.
+I chose a gray theme chosen from a color palette on coolors. I wanted to keep it simple and wanted the images and the text to pop, so I kept a simple, light gray background. For the header and the footer, I used a dark gray to contrast the background. I used white text in the logo to make it pop more, in keeping with the theme.
 
 ![colors](assets/images/colors.png)
 
@@ -24,7 +24,7 @@ I chose a gray theme chosen from the color palette on coolors. I wanted to keep 
 
 Featured on all pages, the full responsive navigation bar includes links to the Home Page, Terms and Wods, and Contact Us pages to allow for easy navigation. The dark color contrasts with the light color of the background to make it easy to read. This section allows the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. I also change the navigation menu for smaller screens so that it is easy to use. 
 
-![Navigation Bar](assets/images/header.png)
+![Navigation Bar](assets/images/defintion.png)
 
 ## The Landing Page
 
@@ -86,12 +86,12 @@ I confirm that my form will only accept required information and that it works a
 
 ## Validator Testing
 
-HTML
-* No errors were returned when passing through the official W3C validator
-CSS
-* No errors were returned when passing through the official Jigsaw validator
-Accessibility
-* I confirm easy user accessibility by running it through lighthouse in dev tools
+* HTML
+No errors were returned when passing through the official W3C validator
+*CSS
+No errors were returned when passing through the official Jigsaw validator
+* Accessibility
+I confirm easy user accessibility by running it through lighthouse in dev tools
 
 
 ## Unfixed Bugs
@@ -107,19 +107,19 @@ For this project I used GitHub
 ![html](assets/images/html_validation.png)
 
 
-The live link can be found here - (What is CrossFit?) [ https://jaimilit.github.io/Portfolio-One/]
+The live link can be found here - [What is CrossFit?](https://jaimilit.github.io/Portfolio-One/)
 
 ## Credits
 
 ### Content
-Text for the index page is taken from Shape at https://www.shape.com/what-is-crossfit-training-7096578
-Text for the benefits was also taken from Shape at https://www.shape.com/fitness/tips/health-fitness-benefits-crossfit
-The terms for the table were selected from this website https://www.crossfitsalemoor.com/crossfit/crossfit-terminology/
-Famous WODs were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/ and
+* Text for the index page is taken from Shape at https://www.shape.com/what-is-crossfit-training-7096578
+* Text for the benefits was also taken from Shape at https://www.shape.com/fitness/tips/health-fitness-benefits-crossfit
+* The terms for the table were selected from this website https://www.crossfitsalemoor.com/crossfit/crossfit-terminology/
+* Famous WODs were taken from several websites http://gymlion.com/10-most-popular-crossfit-workouts/ and
 https://www.getsweatgo.com/workout/guides/best-crossfit-workouts-17
-The icons in the footer and the dumbell for the Famous WODs were taken from Font Awesome
-Footer and Famous WODs sections ideas were taken from Love Running Project
-Navigation menu also inspired by Love Running Project
+* The icons in the footer and the dumbell for the Famous WODs were taken from Font Awesome
+* Footer and Famous WODs sections ideas were taken from Love Running Project
+* Navigation menu also inspired by Love Running Project
 
 
 ### Media
@@ -127,13 +127,13 @@ Navigation menu also inspired by Love Running Project
 Images were taken from the following:
 
 Pexels:
-The barbell for the Contact Us page was taken from Pexels- https://www.pexels.com/photo/black-barbell-685530/
-The barbell for the Benefits section was taken from Pexels - https://www.pexels.com/photo/woman-in-black-sportswear-lifting-a-barbell-7674497/
-The Thank You image was also taken from Pexels - https://www.pexels.com/photo/gold-thank-you-text-with-gold-glitters-7248762/
+* The barbell for the Contact Us page was taken from Pexels- https://www.pexels.com/photo/black-barbell-685530/
+* The barbell for the Benefits section was taken from Pexels - https://www.pexels.com/photo/woman-in-black-sportswear-lifting-a-barbell-7674497/
+* The Thank You image was also taken from Pexels - https://www.pexels.com/photo/gold-thank-you-text-with-gold-glitters-7248762/
 
 
 Other images:
-The Kettlebell for Famous WODs section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
-First image for Definiton section was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
-For the image on the Terms and WODs page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
-the woman on the wods section was taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
+* The Kettlebell for Famous WODs section - https://www.dreamstime.com/kettlebell-crossfit-training-man-banner-panorama-image196069779
+* First image for Definiton section was taken from here - https://www.boxrox.com/katrin-davidsdottir-wise-words-and-action-photos-from-the-icelandic-crossfit-queen-2/
+* For the image on the Terms and WODs page with the table - https://www.womenshealthmag.com/fitness/g19933478/fittest-woman-on-earth-workout/
+* The woman on the wods section was taken from https://www.istockphoto.com/se/foto/young-woman-resting-a-heavy-barbell-on-her-shoulders-gm483546998-71017309
