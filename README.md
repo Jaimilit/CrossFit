@@ -93,6 +93,9 @@ No errors were returned when passing through the official Jigsaw validator
 * Accessibility
 I confirm easy user accessibility by running it through lighthouse in dev tools
 
+![lighthouse](assets/images/lighthouse.png)
+![CSS](assets/images/css_validation.png)
+![html](assets/images/html_validation.png)
 
 ## Unfixed Bugs
 
@@ -102,10 +105,9 @@ In the future I would like to increase my accessibility score, as well as my per
 
 For this project I used GitHub
 
-![lighthouse](assets/images/lighthouse.png)
-![CSS](assets/images/css_validation.png)
-![html](assets/images/html_validation.png)
-
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - [What is CrossFit?](https://jaimilit.github.io/Portfolio-One/)
 
