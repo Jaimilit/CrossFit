@@ -232,16 +232,16 @@ footer {
     height: 100px;
 }
 
-.social-networks {
+.social_networks {
     text-align: center;
     position: relative;
 }
 
-.social-networks > li {
+.social_networks > li {
     display: inline;
 }
 
-.social-networks i {
+.social_networks i {
     font-size: 150%;
     margin: 0;
     padding: 7%;
