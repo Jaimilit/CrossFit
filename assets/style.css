@@ -51,8 +51,9 @@ body {
     margin-left: 20px;
 }
 
-.wod, .benefits {
-    clear: both;  
+.wod,
+.benefits {
+    clear: both;
 }
 
 .img_left {
@@ -96,7 +97,7 @@ body {
     font-size: 20px;
 }
 
-.intrigue  {
+.intrigue {
     clear: both;
     font-size: 40px;
     text-align: center;
@@ -121,14 +122,15 @@ body {
 table {
     width: 50%;
     float: left;
- }
+}
 
-th, td {
+th,
+td {
     border: 1px solid #343a40;
     padding: 10px;
     color: #343a40;
 }
- 
+
 #katrin {
     height: 500px;
     width: 50%;
@@ -136,7 +138,7 @@ th, td {
 }
 
 /* Sample WODS section - From Love Running Project - Adjusted as Needed */
-  
+
 #wods {
     background-image: url(../assets/images/kettlebell_panorama.jpeg);
     background-repeat: no-repeat;
@@ -172,7 +174,7 @@ div p {
 
 /* Contact Us Page */
 
-#contact_title {   
+#contact_title {
     padding-top: 50px;
     text-align: center;
     font-size: 200%;
@@ -182,8 +184,8 @@ div p {
     text-align: center;
 }
 
-.form_section { 
-    height: 850px; 
+.form_section {
+    height: 850px;
 }
 
 .contact_form {
@@ -204,7 +206,7 @@ div p {
     border-radius: 5px;
 }
 
-.image_form { 
+.image_form {
     padding-top: 70px;
     margin-right: 60px;
     height: 75%;
@@ -213,7 +215,7 @@ div p {
 }
 
 .image_thanks {
-  margin: 0 auto;
+    margin: 0 auto;
     font-size: 20px;
     background-color: #3a3a3a;
     height: 80%;
@@ -237,7 +239,7 @@ footer {
     position: relative;
 }
 
-.social_networks > li {
+.social_networks>li {
     display: inline;
 }
 
@@ -248,296 +250,297 @@ footer {
     color: #343a40;
 }
 
-  /* Change for tablets - max 1200px */
+/* Change for tablets - max 1200px */
 
- @media screen and (min-width: 920px) and (max-width: 1200px) { 
+@media screen and (min-width: 920px) and (max-width: 1200px) {
 
-.right_side  {
-    margin: 0 auto;
-    height: 90%;
-    width: 90%;
-    padding: 2%;
-}
+    .right_side {
+        margin: 0 auto;
+        height: 90%;
+        width: 90%;
+        padding: 2%;
+    }
 
-.left_side {
-    margin: 0 auto;
-    height: 90%;
-    width: 90%;
-    padding: 2%;
-}
+    .left_side {
+        margin: 0 auto;
+        height: 90%;
+        width: 90%;
+        padding: 2%;
+    }
 
-.img_right {
-    width: 80%;
-    height: 80%;
-    padding: 0 10%;
-}
+    .img_right {
+        width: 80%;
+        height: 80%;
+        padding: 0 10%;
+    }
 
-.img_left {
-    width: 80%;
-    height: 80%;
-    padding: 0 10%; 
-}
+    .img_left {
+        width: 80%;
+        height: 80%;
+        padding: 0 10%;
+    }
 
-.img_right_side {
-    width: 80%;
-    height: 80%;
-    padding: 0 10%; 
-}
+    .img_right_side {
+        width: 80%;
+        height: 80%;
+        padding: 0 10%;
+    }
 
-.intrigue {
-    padding: 50px;
-}
+    .intrigue {
+        padding: 50px;
+    }
 
-#katrin { 
-    width: 50%;
-    float: none;
-    height: 100%;
-}
+    #katrin {
+        width: 50%;
+        float: none;
+        height: 100%;
+    }
 }
 
 /* Change for phones and smaller devices */
 
 @media screen and (min-width: 480px) and (max-width: 920px) {
-      
-/* Index Page */
 
-#menu {
-    clear: both;
-    float: right;
-    margin-right: 5px;
-    margin-bottom: 10px;
-    line-height: 10px;
-    font-size: x-small;
+    /* Index Page */
+
+    #menu {
+        clear: both;
+        float: right;
+        margin-right: 5px;
+        margin-bottom: 10px;
+        line-height: 10px;
+        font-size: x-small;
+    }
+
+    #menu li {
+        margin-right: 20px;
+        float: right;
+        line-height: 50px;
+        padding: 1px;
+    }
+
+    .right_side {
+        height: 90%;
+        width: 90%;
+        margin-top: 2%;
+    }
+
+    .left_side {
+        height: 90%;
+        width: 90%;
+        padding: 0 5% 0 5%;
+        margin-top: 2%;
+    }
+
+    .img_right,
+    .img_left,
+    .img_right_side {
+        height: 80%;
+        width: 100vw;
+    }
+
+    /* Terms & WODs Page */
+
+    #terms {
+        margin: 20px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    #table {
+        text-align: center;
+        float: left;
+        height: 50%;
+        padding: 10px;
+        font-size: 80%;
+    }
+
+    #katrin {
+        width: 50%;
+        float: none;
+        height: 100%;
+        padding-top: 10%;
+    }
+
+    .intrigue {
+        padding-top: 5%;
+    }
+
+    #famous_wods {
+        margin-top: 5%;
+    }
+
+    #wods>div {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+        font-size: 80%;
+    }
+
+    /* Contact Us Page */
+
+    #contact_title {
+        font-size: 80%;
+        text-align: center;
+        margin: 20px;
+    }
+
+    .form_section {
+        height: 300px;
+        width: 100%;
+        text-align: center;
+        font-size: 17px;
+        margin: 0 20% 50px 20%;
+        padding: 30px;
+    }
+
+    .contact_form {
+        margin: 2%;
+        padding: 30px;
+    }
+
+    .image_form {
+        display: none;
+    }
+
+    .image_thanks {
+        background-color: #3a3a3a;
+        height: 50%;
+        width: 50vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin-top: 2%;
+        margin-bottom: 30%;
+    }
 }
 
-#menu li {
-    margin-right: 20px;
-    float: right;
-    line-height: 50px;
-    padding: 1px;
+/* Change for devices 0 - 480px */
+
+@media screen and (min-width: 0px) and (max-width: 480px) {
+
+    /* Index Page */
+
+    #menu {
+        clear: both;
+        float: right;
+        margin-right: 5px;
+        margin-bottom: 10px;
+        line-height: 10px;
+        font-size: x-small;
+    }
+
+    #menu li {
+        margin-right: 20px;
+        float: right;
+        line-height: 50px;
+        padding: 1px;
+    }
+
+    .img_right,
+    .img_left {
+        height: 100%;
+        width: 100vw;
+    }
+
+    .left_side {
+        height: 350px;
+        width: 95%;
+        text-align: center;
+        padding: 50px 50px 10px 0;
+        margin-bottom: -10%;
+        margin-top: -10px;
+    }
+
+    .right_side {
+        height: 300px;
+        width: 80%;
+        text-align: center;
+        margin: 0 0 -30% 30%;
+        padding: 50px 50px 0 50px;
+    }
+
+    .intrigue {
+        padding-top: 3%;
+    }
+
+    /* Terms & WODs Page */
+
+    #terms {
+        font-size: 90%;
+        text-align: center;
+        padding-top: 75px;
+    }
+
+    table {
+        margin: 0 auto;
+        text-align: center;
+        font-size: 80%;
+        float: none;
+        width: 100vw;
+    }
+
+    #katrin {
+        width: 100%;
+        height: 95%;
+        float: none;
+    }
+
+    #famous_wods {
+        margin-top: 5%;
+    }
+
+    #wods>div {
+        width: 100%;
+        clear: both;
+        height: 100%;
+        padding: 0;
+        font-size: 80%;
+    }
+
+    /* Contact Us Page */
+
+    #contact_title {
+        font-size: 80%;
+        text-align: center;
+        margin: 20px;
+    }
+
+    .form_section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin-bottom: -30%;
+    }
+
+    .contact_form {
+        margin: 0 auto;
+        margin-top: -80%;
+        margin-bottom: -40%;
+        width: 100%;
+    }
+
+    .image_form {
+        display: none;
+    }
+
+    .image_thanks {
+        background-color: #3a3a3a;
+        height: 25%;
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        position: absolute;
+        align-items: center;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        margin: 0 0 -5% 0;
+    }
 }
-
-.right_side  {
-    height: 90%;
-    width: 90%;
-    margin-top: 2%;
-}
-
-.left_side {
-    height: 90%;
-    width: 90%;
-    padding: 0 5% 0 5%;
-    margin-top: 2%;
-}
-        
-.img_right, .img_left, .img_right_side {
-    height: 80%;    
-    width: 100vw;
-}
-
-/* Terms & WODs Page */
-
-#terms {
-    margin: 20px;
-    text-align: center;
-    font-size: 20px;
-}
-
-#table {
-    text-align: center;
-    float: left;
-    height: 50%;
-    padding: 10px;
-    font-size: 80%;   
-}
-     
-#katrin {
-    width: 50%;
-    float: none;
-    height: 100%;
-    padding-top: 10%;
-}
-
-.intrigue {
-  padding-top: 5%;
-}
-
-#famous_wods {
-    margin-top: 5%;
-}
-
-#wods > div {
-    width: 100%;
-    clear: both;
-    height: 100%;
-    padding: 0;
-    font-size: 80%;
-}
-
-/* Contact Us Page */
-    
-#contact_title {
-    font-size: 80%;
-    text-align: center;
-    margin: 20px;
-}
-      
-.form_section {
-    height: 300px;
-    width: 100%;
-    text-align: center;
-    font-size: 17px;
-    margin: 0 20% 50px 20%;
-    padding: 30px;
-}
-
-.contact_form {
-    margin: 2%;
-    padding: 30px;
-}     
-
-.image_form {
-    display: none;
-}
-
-.image_thanks {
-  background-color: #3a3a3a;
-  height: 50%;
-  width: 50vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin-top: 2%;
-  margin-bottom: 30%;
-}
-}
-
- /* Change for devices 0 - 480px */
-
- @media screen and (min-width: 0px) and (max-width: 480px) {
-
-/* Index Page */
-
-#menu {
-    clear: both;
-    float: right;
-    margin-right: 5px;
-    margin-bottom: 10px;
-    line-height: 10px;
-    font-size: x-small;
-}
-
-#menu li {
-    margin-right: 20px;
-    float: right;
-    line-height: 50px;
-    padding: 1px;
-}
-
-.img_right, .img_left {
-    height: 100%;    
-    width: 100vw;
-}
-
-.left_side {
-    height: 350px;
-    width: 95%;
-    text-align: center;
-    padding: 50px 50px 10px 0;
-    margin-bottom: -10%;
-    margin-top: -10px;
-}
-
-.right_side  { 
-    height: 300px;
-    width: 80%;
-    text-align: center;
-    margin: 0 0 -30% 30%;
-    padding: 50px 50px 0 50px;
-}  
-
-.intrigue {
-    padding-top: 3%;
-}
-
-/* Terms & WODs Page */
-
-#terms {
-    font-size: 90%;
-    text-align: center;
-    padding-top: 75px;
-}
-
-table {
-    margin: 0 auto;
-    text-align: center;
-    font-size: 80%; 
-    float: none;
-    width: 100vw;
-}
-
-#katrin {
-    width: 100%;
-    height: 95%;
-    float: none;
-}
-  
-#famous_wods {
-    margin-top: 5%;
-}
-
-#wods > div {
-    width: 100%;
-    clear: both;
-    height: 100%;
-    padding: 0;
-    font-size: 80%;
-}
-
-/* Contact Us Page */
-
-#contact_title {
-    font-size: 80%;
-    text-align: center;
-    margin: 20px;
-}
-
-.form_section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin-bottom: -30%;
-}
-        
-.contact_form {
-    margin: 0 auto;
-    margin-top: -80%;
-    margin-bottom: -40%;
-    width: 100%;
-}
-
-.image_form {
-    display: none;
-}
-
-.image_thanks {
-  background-color: #3a3a3a;
-  height: 25%;
-  width: 50%;
-  display: flex;
-  justify-content: center;
-  position: absolute;
-  align-items: center;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0 0 -5% 0;
-}
-}
-
-  
