@@ -389,11 +389,12 @@ footer {
         display: flex;
         justify-content: center;
         align-items: center;
+        position: relative;
         height: 100vh;
         width: 100vh;
         margin-top: -100px;
-        margin-left: 5%;
-        margin-right: 5%;
+        margin-left: 10%;
+        margin-right: 10%;
     }
 
     .contact_form {
