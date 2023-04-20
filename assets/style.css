@@ -218,14 +218,13 @@ div p {
     margin: 0 auto;
     font-size: 20px;
     background-color: #3a3a3a;
-    height: 80%;
+    height: 70vh;
     width: 80vw;
     padding: 2%;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin-bottom: -30%;
+    margin-bottom: -50%;
 }
 
 /* Footer Info - From Love Running Project - Adjusted as Needed  */
@@ -387,12 +386,14 @@ footer {
     }
 
     .form_section {
-        height: 300px;
-        width: 100%;
-        text-align: center;
-        font-size: 17px;
-        margin: 0 20% 50px 20%;
-        padding: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        width: 100vh;
+        margin-top: -100px;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     .contact_form {
@@ -406,17 +407,15 @@ footer {
 
     .image_thanks {
         background-color: #3a3a3a;
-        height: 50%;
+        height: 50vh;
         width: 50vw;
         display: flex;
         justify-content: center;
         align-items: center;
         position: absolute;
-        top: 40%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        margin-top: 2%;
-        margin-bottom: 30%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: -500px;
     }
 }
 
