@@ -105,9 +105,9 @@ In the future I would like to increase my accessibility score, as well as my per
 
 For this project I used GitHub
 
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* In the GitHub repository, navigate to the Settings tab
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - [What is CrossFit?](https://jaimilit.github.io/Portfolio-One/)
 
